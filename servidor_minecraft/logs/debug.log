@@ -19472,3 +19472,1293 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 07:23:55.914] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [24Dec2024 07:23:55.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 07:23:55.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 07:25:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Bone Crusher]
+[24Dec2024 07:26:00.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Dec2024 07:26:04.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Dec2024 07:26:04.361] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Dec2024 07:26:04.361] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Dec2024 07:28:55.890] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Tekkyo08}.
+[24Dec2024 07:28:55.897] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Darka0201}.
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Dec2024 07:28:55.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Dec2024 07:28:55.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Dec2024 07:28:55.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 07:28:56.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 07:29:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Exorcism]
+[24Dec2024 07:31:13.815] [Worker-Main-2/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_woodworker is being run through DFU (hash 974d5289897fb61cb6b1709ca6cde0c9a1bbfc8a9ddf1d326d259a8a3088b586), this will cause launch time delays
+[24Dec2024 07:31:14.184] [Worker-Main-2/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_oceanographer is being run through DFU (hash 6554aceb870f30cd64acca335b838dfb4b068375902aceadfa5e911976af70b2), this will cause launch time delays
+[24Dec2024 07:31:14.206] [Worker-Main-2/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_florist is being run through DFU (hash a3e77941b5df5a24a9f5c85eb551b824cdfc4ba17c455ed9566bacbda69b952a), this will cause launch time delays
+[24Dec2024 07:31:14.220] [Worker-Main-2/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_hunter is being run through DFU (hash 0eba5343180fc89e43b6a0f0760ff6ef77a0b59a084f4f88c4c5617f005dd4f6), this will cause launch time delays
+[24Dec2024 07:31:14.233] [Worker-Main-2/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_engineer is being run through DFU (hash 4798718c74e836c3a9eaa6cb60b81ecf543f00a207eae422c6a2fa8e8b4ddff8), this will cause launch time delays
+[24Dec2024 07:31:14.249] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house_taiga is being run through DFU (hash 9f117e8cc42e857987c04d6a9ce33bca12377eb6160657f728880afeab584e49), this will cause launch time delays
+[24Dec2024 07:31:14.276] [Worker-Main-2/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[24Dec2024 07:31:14.438] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:village/common/iron_golem is being run through DFU (hash 5b4d80daa326c47ebd1df5a09dc1f7fb21c2989b2d0d1f439812833389d193ea), this will cause launch time delays
+[24Dec2024 07:31:14.898] [Worker-Main-2/DEBUG] [ModernFix/]: Structure beautify:botanist_house_taiga is being run through DFU (hash 2c866f5ef7e24730e023e50c9b707c3a257c0225525b289173111970c1259e33), this will cause launch time delays
+[24Dec2024 07:31:16.197] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[24Dec2024 07:31:16.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fountain
+[24Dec2024 07:31:21.335] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[24Dec2024 07:31:21.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[24Dec2024 07:31:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Tower of Power]
+[24Dec2024 07:31:32.644] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[24Dec2024 07:31:36.038] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[24Dec2024 07:33:41.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[24Dec2024 07:33:55.897] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Tekkyo08}.
+[24Dec2024 07:33:55.904] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Darka0201}.
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[24Dec2024 07:33:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Dec2024 07:33:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Dec2024 07:33:55.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 07:33:56.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 07:34:28.472] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[24Dec2024 07:34:33.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[24Dec2024 07:34:39.913] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[24Dec2024 07:34:48.731] [Worker-Main-3/DEBUG] [ModernFix/]: Structure gnumus:gnumus_ruins is being run through DFU (hash 1f4ef80c92cc65559b4cd414c8715c04fe43e5e82a37aa605b3c10fb76192c34), this will cause launch time delays
+[24Dec2024 07:34:50.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[24Dec2024 07:34:59.981] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[24Dec2024 07:35:02.059] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -64], pos: BlockPos{x=243, y=-33, z=-1024}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:35:02.060] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -64], pos: BlockPos{x=242, y=-33, z=-1024}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:35:02.060] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -64], pos: BlockPos{x=241, y=-33, z=-1024}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:35:02.060] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -64], pos: BlockPos{x=245, y=-30, z=-1024}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:35:03.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Vasebreaker]
+[24Dec2024 07:35:22.793] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_2
+[24Dec2024 07:36:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [A Throwaway Joke]
+[24Dec2024 07:37:16.648] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[24Dec2024 07:37:22.658] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[24Dec2024 07:37:23.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[24Dec2024 07:37:25.956] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:25.964] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:29.558] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:29.561] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:35.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:35.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:37:46.427] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/tower is being run through DFU (hash 057353f039449d802a124e196b5753dd1bf4e80064f499a3f024c9cdca56fe08), this will cause launch time delays
+[24Dec2024 07:37:46.527] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/staircase is being run through DFU (hash 3c0815a0bac672c8254edd4fac8774e53b46f25695e37f40eaf7929da85e30b9), this will cause launch time delays
+[24Dec2024 07:37:46.530] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Dec2024 07:37:46.534] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/basement is being run through DFU (hash a0201551ff55bb5c6e98126314bcede86796000369b972ddfb597a9039f25ea6), this will cause launch time delays
+[24Dec2024 07:37:46.600] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway is being run through DFU (hash 112e690566ac507d0e351955af59e8b028cd93963a29ff3e51feeb952701c0f8), this will cause launch time delays
+[24Dec2024 07:37:46.607] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Dec2024 07:37:46.608] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction is being run through DFU (hash df0e4ebe73d446b6af7e73e6d47b2a2003f0c38a0ac884625889eed4aa4aab3b), this will cause launch time delays
+[24Dec2024 07:37:46.613] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack is being run through DFU (hash faeb48fce9997a048508c7dced1cde411fd6cfebb1152d2706c29ae79a6d9b0d), this will cause launch time delays
+[24Dec2024 07:37:46.619] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage is being run through DFU (hash 70f314b09ad5aca4f0b46a4af19fd0f5eb9c37695b1d17e9fb9abb174b2f1dff), this will cause launch time delays
+[24Dec2024 07:37:46.621] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret is being run through DFU (hash daf24d8fe1943f83b857676b366e2b20c22fe646558228409eccdac21b0752fc), this will cause launch time delays
+[24Dec2024 07:37:46.625] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[24Dec2024 07:37:46.630] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end is being run through DFU (hash 15b38ac94ad2d9e2e32b55c21612c45a3def8c98c5a1beb3a8ff1481617f2b07), this will cause launch time delays
+[24Dec2024 07:37:46.632] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn is being run through DFU (hash 1a98376213106f17a566433dd45f7c49572289fd15532acb67303f6686393d57), this will cause launch time delays
+[24Dec2024 07:37:46.634] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage is being run through DFU (hash 1d9302405e7a722df261d2baa708c379c318e5d34e4e4df847db212717775e79), this will cause launch time delays
+[24Dec2024 07:37:46.637] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2 is being run through DFU (hash 04b6097ae405b90ce5f29101f28bb8c2ec28069b7581dc8d5feb1e18472ff455), this will cause launch time delays
+[24Dec2024 07:37:46.639] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[24Dec2024 07:37:46.642] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell is being run through DFU (hash f0b4b0bc758aa76668a36d059d4a6f3e59676abfaa345bbc63c75d0481123131), this will cause launch time delays
+[24Dec2024 07:37:46.644] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped is being run through DFU (hash 255ec8a4267f10f595c62bde654e0e64b9cd9130c56e9df90f8f712fe37cda35), this will cause launch time delays
+[24Dec2024 07:37:46.646] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage is being run through DFU (hash 8e26b498cd07c30cfb1f815977d24404de399f713931ce444d8a85aee5138a65), this will cause launch time delays
+[24Dec2024 07:37:46.649] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[24Dec2024 07:37:46.651] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall_thin is being run through DFU (hash c2b1196b8a5eb4b3fe2d03608c5583ac504f7c7fcc8395aa11326fc30f5844b9), this will cause launch time delays
+[24Dec2024 07:37:53.333] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, -74], pos: BlockPos{x=-80, y=-32, z=-1171}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:37:53.334] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, -74], pos: BlockPos{x=-80, y=-32, z=-1170}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:37:53.334] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, -74], pos: BlockPos{x=-80, y=-32, z=-1169}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:37:53.334] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, -74], pos: BlockPos{x=-80, y=-29, z=-1173}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 07:38:46.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:38:46.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Dec2024 07:38:55.899] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Tekkyo08}.
+[24Dec2024 07:38:55.907] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Darka0201}.
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Dec2024 07:38:55.934] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Dec2024 07:38:55.935] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Dec2024 07:38:55.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 07:38:56.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 07:41:15.409] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.409] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.99, y=150.00, z=-939.37]
+[24Dec2024 07:41:15.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.88, y=150.00, z=-939.54]
+[24Dec2024 07:41:15.508] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.75, y=150.00, z=-939.74]
+[24Dec2024 07:41:15.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.60, y=150.00, z=-939.95]
+[24Dec2024 07:41:15.600] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.600] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.43, y=150.00, z=-940.16]
+[24Dec2024 07:41:15.651] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.651] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.26, y=150.00, z=-940.38]
+[24Dec2024 07:41:15.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=41.08, y=150.00, z=-940.58]
+[24Dec2024 07:41:15.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.752] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=40.89, y=150.00, z=-940.78]
+[24Dec2024 07:41:15.802] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.802] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=40.68, y=150.00, z=-940.98]
+[24Dec2024 07:41:15.850] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.850] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=40.47, y=150.00, z=-941.16]
+[24Dec2024 07:41:15.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=40.25, y=150.00, z=-941.33]
+[24Dec2024 07:41:15.953] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:15.953] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=40.04, y=150.00, z=-941.51]
+[24Dec2024 07:41:16.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=39.81, y=150.00, z=-941.68]
+[24Dec2024 07:41:16.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=39.57, y=150.00, z=-941.81]
+[24Dec2024 07:41:16.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=39.31, y=150.00, z=-941.85]
+[24Dec2024 07:41:16.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=39.07, y=150.00, z=-941.81]
+[24Dec2024 07:41:16.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.83, y=150.00, z=-941.71]
+[24Dec2024 07:41:16.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.59, y=150.00, z=-941.59]
+[24Dec2024 07:41:16.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.35, y=150.00, z=-941.45]
+[24Dec2024 07:41:16.353] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.353] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.12, y=150.00, z=-941.30]
+[24Dec2024 07:41:16.402] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.403] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.89, y=150.00, z=-941.15]
+[24Dec2024 07:41:16.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.63, y=150.00, z=-941.05]
+[24Dec2024 07:41:16.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.37, y=150.00, z=-941.02]
+[24Dec2024 07:41:16.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.013, To: 0.00975, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.30, y=150.00, z=-941.12]
+[24Dec2024 07:41:16.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:16.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.05, To: 0.0375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.28, y=150.00, z=-941.46]
+[24Dec2024 07:41:17.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:17.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0139999995, To: 0.0105, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.35, y=150.00, z=-941.29]
+[24Dec2024 07:41:17.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:17.904] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.32, y=150.00, z=-941.02]
+[24Dec2024 07:41:18.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:18.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.022999998, To: 0.017249998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.22, y=150.00, z=-940.42]
+[24Dec2024 07:41:18.205] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:18.206] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=38.09, y=150.00, z=-939.74]
+[24Dec2024 07:41:18.351] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:18.351] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.97, y=150.00, z=-939.04]
+[24Dec2024 07:41:18.657] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:18.657] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=37.81, y=150.00, z=-938.22]
+[24Dec2024 07:41:19.905] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:19.905] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0139999995, To: 0.0105, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.96, y=150.00, z=-934.79]
+[24Dec2024 07:41:19.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:19.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.02, To: 0.015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.91, y=150.00, z=-934.59]
+[24Dec2024 07:41:20.004] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.004] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.85, y=150.00, z=-934.36]
+[24Dec2024 07:41:20.089] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.089] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.79, y=150.00, z=-934.11]
+[24Dec2024 07:41:20.146] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.146] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.72, y=150.00, z=-933.85]
+[24Dec2024 07:41:20.147] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.147] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.66, y=150.00, z=-933.59]
+[24Dec2024 07:41:20.196] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.196] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.59, y=150.00, z=-933.32]
+[24Dec2024 07:41:20.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.52, y=150.00, z=-933.05]
+[24Dec2024 07:41:20.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.46, y=150.00, z=-932.78]
+[24Dec2024 07:41:20.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.39, y=150.00, z=-932.51]
+[24Dec2024 07:41:20.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.32, y=150.00, z=-932.23]
+[24Dec2024 07:41:20.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.25, y=150.00, z=-931.96]
+[24Dec2024 07:41:20.528] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.528] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.18, y=150.00, z=-931.69]
+[24Dec2024 07:41:20.568] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.568] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.12, y=150.00, z=-931.42]
+[24Dec2024 07:41:20.615] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.615] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=36.05, y=150.00, z=-931.15]
+[24Dec2024 07:41:20.657] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.657] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.98, y=150.00, z=-930.87]
+[24Dec2024 07:41:20.706] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.706] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.91, y=150.00, z=-930.60]
+[24Dec2024 07:41:20.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.756] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.84, y=150.00, z=-930.33]
+[24Dec2024 07:41:20.806] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.806] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.77, y=150.00, z=-930.06]
+[24Dec2024 07:41:20.857] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.857] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.018000001, To: 0.013500001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.73, y=150.00, z=-929.88]
+[24Dec2024 07:41:20.924] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.924] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.012, To: 0.009, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.70, y=150.00, z=-929.76]
+[24Dec2024 07:41:20.961] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:20.962] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.68, y=150.00, z=-929.67]
+[24Dec2024 07:41:21.206] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.61, y=149.00, z=-929.42]
+[24Dec2024 07:41:21.255] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.255] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0069999998, To: 0.00525, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.60, y=149.00, z=-929.35]
+[24Dec2024 07:41:21.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.305] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.58, y=149.00, z=-929.29]
+[24Dec2024 07:41:21.376] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.376] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.57, y=149.00, z=-929.23]
+[24Dec2024 07:41:21.415] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.415] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.55, y=149.00, z=-929.17]
+[24Dec2024 07:41:21.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.54, y=149.00, z=-929.11]
+[24Dec2024 07:41:21.503] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.504] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.53, y=149.00, z=-929.06]
+[24Dec2024 07:41:21.556] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.556] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.51, y=149.00, z=-929.00]
+[24Dec2024 07:41:21.605] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.50, y=149.00, z=-928.95]
+[24Dec2024 07:41:21.654] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.654] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.48, y=149.00, z=-928.90]
+[24Dec2024 07:41:21.706] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.706] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.47, y=149.00, z=-928.84]
+[24Dec2024 07:41:21.753] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.753] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.46, y=149.00, z=-928.79]
+[24Dec2024 07:41:21.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.44, y=149.00, z=-928.73]
+[24Dec2024 07:41:21.855] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.855] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.43, y=149.00, z=-928.68]
+[24Dec2024 07:41:21.901] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.901] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.42, y=149.00, z=-928.62]
+[24Dec2024 07:41:21.953] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:21.953] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.40, y=149.00, z=-928.57]
+[24Dec2024 07:41:22.006] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:22.006] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.39, y=149.00, z=-928.51]
+[24Dec2024 07:41:22.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:22.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.39, y=149.00, z=-928.51]
+[24Dec2024 07:41:24.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 4.0, To: 3.0, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=35.15, y=150.00, z=-926.96]
+[24Dec2024 07:41:24.500] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.500] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 3.0, To: 2.25, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=34.76, y=150.00, z=-925.60]
+[24Dec2024 07:41:24.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=34.48, y=150.00, z=-925.10]
+[24Dec2024 07:41:24.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=34.37, y=150.00, z=-924.92]
+[24Dec2024 07:41:24.855] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.855] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=34.25, y=150.00, z=-924.72]
+[24Dec2024 07:41:24.901] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.901] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=34.11, y=150.00, z=-924.49]
+[24Dec2024 07:41:24.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.97, y=150.00, z=-924.26]
+[24Dec2024 07:41:24.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:24.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 3.0, To: 2.25, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.97, y=150.00, z=-924.26]
+[24Dec2024 07:41:25.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.83, y=150.00, z=-924.03]
+[24Dec2024 07:41:25.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.68, y=150.00, z=-923.79]
+[24Dec2024 07:41:25.101] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.101] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.54, y=150.00, z=-923.56]
+[24Dec2024 07:41:25.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.38, y=150.00, z=-923.32]
+[24Dec2024 07:41:25.202] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.202] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.22, y=150.00, z=-923.10]
+[24Dec2024 07:41:25.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.04, y=150.00, z=-922.88]
+[24Dec2024 07:41:25.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=33.04, y=150.00, z=-922.88]
+[24Dec2024 07:41:25.512] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.512] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 2.0, To: 1.5, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=32.02, y=151.33, z=-921.80]
+[24Dec2024 07:41:25.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.01, To: 0.0075, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=31.26, y=151.00, z=-921.00]
+[24Dec2024 07:41:25.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=31.14, y=151.00, z=-920.87]
+[24Dec2024 07:41:25.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=31.07, y=151.00, z=-920.80]
+[24Dec2024 07:41:25.752] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.752] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.039, To: 0.02925, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=30.87, y=151.00, z=-920.59]
+[24Dec2024 07:41:25.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=30.83, y=151.00, z=-920.56]
+[24Dec2024 07:41:25.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=30.87, y=151.00, z=-920.59]
+[24Dec2024 07:41:25.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:25.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 2.0, To: 1.5, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=29.70, y=152.33, z=-919.41]
+[24Dec2024 07:41:26.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=28.27, y=151.00, z=-917.95]
+[24Dec2024 07:41:26.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=28.12, y=151.00, z=-917.80]
+[24Dec2024 07:41:26.398] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.398] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=28.07, y=151.00, z=-917.74]
+[24Dec2024 07:41:26.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.04, To: 0.03, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=27.84, y=151.00, z=-917.52]
+[24Dec2024 07:41:26.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=27.81, y=151.00, z=-917.49]
+[24Dec2024 07:41:26.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=27.84, y=151.00, z=-917.52]
+[24Dec2024 07:41:26.498] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:26.498] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 1.0, To: 0.75, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=27.30, y=151.84, z=-916.97]
+[24Dec2024 07:41:27.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=25.22, y=151.00, z=-914.86]
+[24Dec2024 07:41:27.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 1.0, To: 0.75, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=25.22, y=151.00, z=-914.86]
+[24Dec2024 07:41:27.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=25.07, y=151.00, z=-914.71]
+[24Dec2024 07:41:27.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=25.02, y=151.00, z=-914.65]
+[24Dec2024 07:41:27.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=25.07, y=151.00, z=-914.71]
+[24Dec2024 07:41:27.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 1.0, To: 0.75, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=22.69, y=151.57, z=-912.30]
+[24Dec2024 07:41:27.622] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.622] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=22.27, y=151.00, z=-911.87]
+[24Dec2024 07:41:27.624] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.624] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=22.12, y=151.00, z=-911.71]
+[24Dec2024 07:41:27.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=22.05, y=151.00, z=-911.65]
+[24Dec2024 07:41:27.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:27.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=22.12, y=151.00, z=-911.71]
+[24Dec2024 07:41:28.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 1.0, To: 0.75, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=20.14, y=152.10, z=-909.71]
+[24Dec2024 07:41:28.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.01, To: 0.0075, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=19.27, y=151.00, z=-908.83]
+[24Dec2024 07:41:28.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=19.12, y=151.00, z=-908.68]
+[24Dec2024 07:41:28.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=19.06, y=151.00, z=-908.62]
+[24Dec2024 07:41:28.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.040999997, To: 0.030749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=18.83, y=151.00, z=-908.39]
+[24Dec2024 07:41:28.306] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.306] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=18.80, y=151.00, z=-908.35]
+[24Dec2024 07:41:28.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=18.83, y=151.00, z=-908.39]
+[24Dec2024 07:41:28.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=16.22, y=151.00, z=-905.67]
+[24Dec2024 07:41:28.849] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.849] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=16.08, y=151.00, z=-905.51]
+[24Dec2024 07:41:28.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=16.03, y=151.00, z=-905.45]
+[24Dec2024 07:41:28.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:28.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=16.08, y=151.00, z=-905.51]
+[24Dec2024 07:41:29.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:29.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=13.58, y=151.00, z=-902.39]
+[24Dec2024 07:41:29.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:29.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=13.45, y=151.00, z=-902.22]
+[24Dec2024 07:41:29.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:29.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=13.40, y=151.00, z=-902.15]
+[24Dec2024 07:41:29.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:29.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=13.45, y=151.00, z=-902.22]
+[24Dec2024 07:41:30.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.011, To: 0.00825, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.98, y=151.00, z=-899.00]
+[24Dec2024 07:41:30.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.86, y=151.00, z=-898.83]
+[24Dec2024 07:41:30.086] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.086] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.01, To: 0.0075, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.80, y=151.00, z=-898.76]
+[24Dec2024 07:41:30.123] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.123] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.83, y=151.00, z=-898.79]
+[24Dec2024 07:41:30.125] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.125] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.040999997, To: 0.030749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.62, y=151.00, z=-898.50]
+[24Dec2024 07:41:30.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.003, To: 0.00225, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.60, y=151.00, z=-898.47]
+[24Dec2024 07:41:30.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.035, To: 0.026250001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.42, y=151.00, z=-898.21]
+[24Dec2024 07:41:30.202] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.202] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.41, y=151.00, z=-898.19]
+[24Dec2024 07:41:30.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=10.42, y=151.00, z=-898.21]
+[24Dec2024 07:41:30.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=8.54, y=151.00, z=-895.13]
+[24Dec2024 07:41:30.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=8.44, y=151.00, z=-894.95]
+[24Dec2024 07:41:30.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0069999998, To: 0.00525, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=8.40, y=151.00, z=-894.88]
+[24Dec2024 07:41:30.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:30.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=8.44, y=151.00, z=-894.95]
+[24Dec2024 07:41:31.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.70, y=151.00, z=-891.38]
+[24Dec2024 07:41:31.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.61, y=151.00, z=-891.18]
+[24Dec2024 07:41:31.398] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.398] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.57, y=151.00, z=-891.11]
+[24Dec2024 07:41:31.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.040999997, To: 0.030749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.44, y=151.00, z=-890.82]
+[24Dec2024 07:41:31.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.42, y=151.00, z=-890.77]
+[24Dec2024 07:41:31.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=6.44, y=151.00, z=-890.82]
+[24Dec2024 07:41:31.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.86, y=151.00, z=-887.40]
+[24Dec2024 07:41:31.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:31.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 6.0, To: 4.5, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.86, y=151.00, z=-887.40]
+[24Dec2024 07:41:32.000] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.000] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.78, y=151.00, z=-887.21]
+[24Dec2024 07:41:32.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.74, y=151.00, z=-887.13]
+[24Dec2024 07:41:32.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.04, To: 0.03, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.61, y=151.00, z=-886.84]
+[24Dec2024 07:41:32.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.100] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.59, y=151.00, z=-886.80]
+[24Dec2024 07:41:32.101] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.102] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.035, To: 0.026250001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.47, y=151.00, z=-886.53]
+[24Dec2024 07:41:32.149] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.149] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.46, y=151.00, z=-886.51]
+[24Dec2024 07:41:32.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=4.47, y=151.00, z=-886.53]
+[24Dec2024 07:41:32.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.03, y=151.00, z=-883.25]
+[24Dec2024 07:41:32.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.00, y=151.00, z=-883.06]
+[24Dec2024 07:41:32.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.96, y=151.00, z=-882.99]
+[24Dec2024 07:41:32.757] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.757] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.037, To: 0.02775, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.98, y=151.00, z=-882.69]
+[24Dec2024 07:41:32.798] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.96, y=151.00, z=-882.66]
+[24Dec2024 07:41:32.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.032, To: 0.024, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.02, y=151.00, z=-882.37]
+[24Dec2024 07:41:32.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.01, y=151.00, z=-882.35]
+[24Dec2024 07:41:32.851] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.851] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.05, y=151.00, z=-882.16]
+[24Dec2024 07:41:32.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.04, y=151.00, z=-882.15]
+[24Dec2024 07:41:32.899] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.899] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.08, y=151.00, z=-882.01]
+[24Dec2024 07:41:32.947] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.947] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.08, y=151.00, z=-882.01]
+[24Dec2024 07:41:32.949] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.949] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.14, y=151.00, z=-881.81]
+[24Dec2024 07:41:32.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:32.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.22, y=151.00, z=-881.58]
+[24Dec2024 07:41:33.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.21, y=151.00, z=-881.34]
+[24Dec2024 07:41:33.102] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.102] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.15, y=151.00, z=-881.09]
+[24Dec2024 07:41:33.150] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.150] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=3.07, y=151.00, z=-880.84]
+[24Dec2024 07:41:33.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.97, y=151.00, z=-880.58]
+[24Dec2024 07:41:33.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.86, y=151.00, z=-880.33]
+[24Dec2024 07:41:33.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.75, y=151.00, z=-880.07]
+[24Dec2024 07:41:33.356] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.356] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.64, y=151.00, z=-879.82]
+[24Dec2024 07:41:33.427] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.427] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.52, y=151.00, z=-879.56]
+[24Dec2024 07:41:33.474] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.474] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.40, y=151.00, z=-879.31]
+[24Dec2024 07:41:33.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.018000001, To: 0.013500001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.32, y=151.00, z=-879.15]
+[24Dec2024 07:41:33.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.012, To: 0.009, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.26, y=151.00, z=-879.04]
+[24Dec2024 07:41:33.603] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.603] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.019, To: 0.014249999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.17, y=151.00, z=-878.87]
+[24Dec2024 07:41:33.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.022999998, To: 0.017249998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.07, y=151.00, z=-878.66]
+[24Dec2024 07:41:33.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.95, y=151.00, z=-878.44]
+[24Dec2024 07:41:33.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.82, y=151.00, z=-878.20]
+[24Dec2024 07:41:33.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.69, y=151.00, z=-877.96]
+[24Dec2024 07:41:33.850] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.850] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.56, y=151.00, z=-877.72]
+[24Dec2024 07:41:33.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.908] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.43, y=151.00, z=-877.47]
+[24Dec2024 07:41:33.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:33.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.30, y=151.00, z=-877.23]
+[24Dec2024 07:41:34.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.17, y=151.00, z=-876.98]
+[24Dec2024 07:41:34.055] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.055] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.03, y=151.00, z=-876.73]
+[24Dec2024 07:41:34.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.90, y=151.00, z=-876.49]
+[24Dec2024 07:41:34.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.77, y=151.00, z=-876.24]
+[24Dec2024 07:41:34.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.64, y=151.00, z=-875.99]
+[24Dec2024 07:41:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.50, y=151.00, z=-875.74]
+[24Dec2024 07:41:34.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.37, y=151.00, z=-875.50]
+[24Dec2024 07:41:34.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.24, y=151.00, z=-875.25]
+[24Dec2024 07:41:34.397] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.397] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.11, y=151.00, z=-875.00]
+[24Dec2024 07:41:34.478] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.478] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.03, y=151.00, z=-874.75]
+[24Dec2024 07:41:34.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.16, y=151.00, z=-874.51]
+[24Dec2024 07:41:34.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.29, y=151.00, z=-874.26]
+[24Dec2024 07:41:34.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.42, y=151.00, z=-874.01]
+[24Dec2024 07:41:34.675] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.675] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.55, y=151.00, z=-873.76]
+[24Dec2024 07:41:34.719] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.719] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.69, y=151.00, z=-873.52]
+[24Dec2024 07:41:34.760] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.760] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.82, y=151.00, z=-873.27]
+[24Dec2024 07:41:34.815] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.815] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.02, y=151.00, z=-873.10]
+[24Dec2024 07:41:34.867] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.867] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.25, y=151.00, z=-872.96]
+[24Dec2024 07:41:34.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.901] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.50, y=151.00, z=-872.85]
+[24Dec2024 07:41:34.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.76, y=151.00, z=-872.76]
+[24Dec2024 07:41:34.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:34.999] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.03, y=151.00, z=-872.67]
+[24Dec2024 07:41:35.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.30, y=151.00, z=-872.58]
+[24Dec2024 07:41:35.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.51, y=151.00, z=-872.42]
+[24Dec2024 07:41:35.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.68, y=151.00, z=-872.22]
+[24Dec2024 07:41:35.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.83, y=151.00, z=-872.00]
+[24Dec2024 07:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.98, y=151.00, z=-871.76]
+[24Dec2024 07:41:35.301] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:35.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.98, y=151.00, z=-871.76]
+[24Dec2024 07:41:36.000] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:36.001] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 6.0, To: 4.5, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-4.36, y=151.00, z=-868.25]
+[24Dec2024 07:41:37.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.81, y=151.00, z=-863.12]
+[24Dec2024 07:41:37.612] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.612] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.73, y=151.00, z=-862.92]
+[24Dec2024 07:41:37.652] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.653] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.64, y=151.00, z=-862.70]
+[24Dec2024 07:41:37.705] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.705] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.55, y=151.00, z=-862.45]
+[24Dec2024 07:41:37.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.45, y=151.00, z=-862.20]
+[24Dec2024 07:41:37.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.35, y=151.00, z=-861.94]
+[24Dec2024 07:41:37.860] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.860] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.26, y=151.00, z=-861.69]
+[24Dec2024 07:41:37.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.16, y=151.00, z=-861.42]
+[24Dec2024 07:41:37.952] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:37.952] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.07, y=151.00, z=-861.16]
+[24Dec2024 07:41:38.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.004] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.01, y=151.00, z=-860.89]
+[24Dec2024 07:41:38.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.96, y=151.00, z=-860.61]
+[24Dec2024 07:41:38.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.94, y=151.00, z=-860.33]
+[24Dec2024 07:41:38.151] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.94, y=151.00, z=-860.06]
+[24Dec2024 07:41:38.203] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.203] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.95, y=151.00, z=-859.78]
+[24Dec2024 07:41:38.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.96, y=151.00, z=-859.50]
+[24Dec2024 07:41:38.301] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.98, y=151.00, z=-859.22]
+[24Dec2024 07:41:38.359] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.359] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.99, y=151.00, z=-858.94]
+[24Dec2024 07:41:38.408] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.409] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.01, y=151.00, z=-858.66]
+[24Dec2024 07:41:38.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.03, y=151.00, z=-858.38]
+[24Dec2024 07:41:38.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.05, y=151.00, z=-858.10]
+[24Dec2024 07:41:38.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.07, y=151.00, z=-857.82]
+[24Dec2024 07:41:38.608] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.608] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.08, y=151.00, z=-857.54]
+[24Dec2024 07:41:38.662] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.662] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.10, y=151.00, z=-857.26]
+[24Dec2024 07:41:38.705] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:38.705] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.10, y=151.00, z=-857.26]
+[24Dec2024 07:41:39.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.32, y=151.00, z=-853.84]
+[24Dec2024 07:41:39.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.33, y=151.00, z=-853.64]
+[24Dec2024 07:41:39.293] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.294] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0069999998, To: 0.00525, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.34, y=151.00, z=-853.56]
+[24Dec2024 07:41:39.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.039, To: 0.02925, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.36, y=151.00, z=-853.25]
+[24Dec2024 07:41:39.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.347] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.36, y=151.00, z=-853.21]
+[24Dec2024 07:41:39.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.36, y=151.00, z=-853.25]
+[24Dec2024 07:41:39.895] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.895] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.60, y=151.00, z=-849.55]
+[24Dec2024 07:41:39.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.61, y=151.00, z=-849.34]
+[24Dec2024 07:41:39.946] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.947] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.62, y=151.00, z=-849.27]
+[24Dec2024 07:41:39.948] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:39.948] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.61, y=151.00, z=-849.34]
+[24Dec2024 07:41:40.496] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.496] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-845.36]
+[24Dec2024 07:41:40.498] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.498] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-845.14]
+[24Dec2024 07:41:40.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.83, y=151.00, z=-845.06]
+[24Dec2024 07:41:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.040999997, To: 0.030749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.83, y=151.00, z=-844.74]
+[24Dec2024 07:41:40.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.83, y=151.00, z=-844.69]
+[24Dec2024 07:41:40.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.035, To: 0.026250001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-844.38]
+[24Dec2024 07:41:40.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.003, To: 0.00225, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-844.36]
+[24Dec2024 07:41:40.653] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.653] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.032, To: 0.024, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-844.07]
+[24Dec2024 07:41:40.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-844.05]
+[24Dec2024 07:41:40.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-843.76]
+[24Dec2024 07:41:40.748] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.748] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.82, y=151.00, z=-843.76]
+[24Dec2024 07:41:40.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.81, y=151.00, z=-843.47]
+[24Dec2024 07:41:40.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.81, y=151.00, z=-843.19]
+[24Dec2024 07:41:40.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.847] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.81, y=151.00, z=-842.90]
+[24Dec2024 07:41:40.895] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.896] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.81, y=151.00, z=-842.62]
+[24Dec2024 07:41:40.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.80, y=151.00, z=-842.34]
+[24Dec2024 07:41:40.996] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:40.996] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.80, y=151.00, z=-842.06]
+[24Dec2024 07:41:41.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.80, y=151.00, z=-841.78]
+[24Dec2024 07:41:41.098] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.098] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.79, y=151.00, z=-841.49]
+[24Dec2024 07:41:41.148] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.148] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.79, y=151.00, z=-841.21]
+[24Dec2024 07:41:41.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.200] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.79, y=151.00, z=-840.93]
+[24Dec2024 07:41:41.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.78, y=151.00, z=-840.65]
+[24Dec2024 07:41:41.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.78, y=151.00, z=-840.37]
+[24Dec2024 07:41:41.345] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.345] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.78, y=151.00, z=-840.09]
+[24Dec2024 07:41:41.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.77, y=151.00, z=-839.81]
+[24Dec2024 07:41:41.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.77, y=151.00, z=-839.81]
+[24Dec2024 07:41:41.852] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.852] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.01, To: 0.0075, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.73, y=152.00, z=-837.22]
+[24Dec2024 07:41:41.854] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.854] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.72, y=152.00, z=-837.04]
+[24Dec2024 07:41:41.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.72, y=152.00, z=-836.94]
+[24Dec2024 07:41:41.899] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.899] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.039, To: 0.02925, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.71, y=152.00, z=-836.65]
+[24Dec2024 07:41:41.944] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.71, y=152.00, z=-836.60]
+[24Dec2024 07:41:41.946] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:41.946] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.71, y=152.00, z=-836.65]
+[24Dec2024 07:41:42.497] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.497] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.63, y=152.00, z=-832.95]
+[24Dec2024 07:41:42.499] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.499] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.62, y=152.00, z=-832.74]
+[24Dec2024 07:41:42.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.62, y=152.00, z=-832.66]
+[24Dec2024 07:41:42.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.04, To: 0.03, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.61, y=152.00, z=-832.34]
+[24Dec2024 07:41:42.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.61, y=152.00, z=-832.30]
+[24Dec2024 07:41:42.599] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.599] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.034, To: 0.025500001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.60, y=152.00, z=-831.99]
+[24Dec2024 07:41:42.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.60, y=152.00, z=-831.97]
+[24Dec2024 07:41:42.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.032, To: 0.024, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.59, y=152.00, z=-831.68]
+[24Dec2024 07:41:42.707] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.707] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.59, y=152.00, z=-831.67]
+[24Dec2024 07:41:42.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.59, y=152.00, z=-831.38]
+[24Dec2024 07:41:42.753] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.753] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.59, y=152.00, z=-831.37]
+[24Dec2024 07:41:42.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.58, y=152.00, z=-831.09]
+[24Dec2024 07:41:42.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.801] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.57, y=152.00, z=-830.80]
+[24Dec2024 07:41:42.846] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.846] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.56, y=152.00, z=-830.52]
+[24Dec2024 07:41:42.893] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.893] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.56, y=152.00, z=-830.24]
+[24Dec2024 07:41:42.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:42.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.55, y=152.00, z=-829.95]
+[24Dec2024 07:41:43.021] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.021] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.54, y=152.00, z=-829.67]
+[24Dec2024 07:41:43.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.54, y=152.00, z=-829.39]
+[24Dec2024 07:41:43.094] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.094] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.54, y=152.00, z=-829.39]
+[24Dec2024 07:41:43.643] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.643] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.45, y=152.00, z=-825.97]
+[24Dec2024 07:41:43.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.45, y=152.00, z=-825.76]
+[24Dec2024 07:41:43.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0069999998, To: 0.00525, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.45, y=152.00, z=-825.69]
+[24Dec2024 07:41:43.695] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:43.695] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.45, y=152.00, z=-825.76]
+[24Dec2024 07:41:44.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.35, y=152.00, z=-821.83]
+[24Dec2024 07:41:44.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.35, y=152.00, z=-821.61]
+[24Dec2024 07:41:44.293] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.293] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.35, y=152.00, z=-821.53]
+[24Dec2024 07:41:44.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.040999997, To: 0.030749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.33, y=152.00, z=-821.21]
+[24Dec2024 07:41:44.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.33, y=152.00, z=-821.16]
+[24Dec2024 07:41:44.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.33, y=152.00, z=-821.21]
+[24Dec2024 07:41:44.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.24, y=152.00, z=-817.45]
+[24Dec2024 07:41:44.904] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.905] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.24, y=152.00, z=-817.24]
+[24Dec2024 07:41:44.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.24, y=152.00, z=-817.16]
+[24Dec2024 07:41:44.947] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.947] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.04, To: 0.03, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.23, y=152.00, z=-816.84]
+[24Dec2024 07:41:44.996] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.996] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.23, y=152.00, z=-816.80]
+[24Dec2024 07:41:44.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:44.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.035, To: 0.026250001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.22, y=152.00, z=-816.49]
+[24Dec2024 07:41:45.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.22, y=152.00, z=-816.47]
+[24Dec2024 07:41:45.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.032, To: 0.024, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.21, y=152.00, z=-816.18]
+[24Dec2024 07:41:45.092] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.092] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.21, y=152.00, z=-816.16]
+[24Dec2024 07:41:45.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.20, y=152.00, z=-815.88]
+[24Dec2024 07:41:45.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.20, y=152.00, z=-815.87]
+[24Dec2024 07:41:45.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.20, y=152.00, z=-815.59]
+[24Dec2024 07:41:45.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.19, y=152.00, z=-815.30]
+[24Dec2024 07:41:45.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.18, y=152.00, z=-815.02]
+[24Dec2024 07:41:45.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.17, y=152.00, z=-814.73]
+[24Dec2024 07:41:45.346] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.346] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.15, y=152.00, z=-814.45]
+[24Dec2024 07:41:45.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.11, y=152.00, z=-814.18]
+[24Dec2024 07:41:45.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.05, y=152.00, z=-813.90]
+[24Dec2024 07:41:45.500] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.500] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.97, y=152.00, z=-813.64]
+[24Dec2024 07:41:45.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.88, y=152.00, z=-813.37]
+[24Dec2024 07:41:45.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.79, y=152.00, z=-813.11]
+[24Dec2024 07:41:45.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.69, y=152.00, z=-812.85]
+[24Dec2024 07:41:45.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.58, y=152.00, z=-812.59]
+[24Dec2024 07:41:45.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.45, y=152.00, z=-812.34]
+[24Dec2024 07:41:45.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.32, y=152.00, z=-812.09]
+[24Dec2024 07:41:45.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.17, y=152.00, z=-811.86]
+[24Dec2024 07:41:45.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.01, y=152.00, z=-811.63]
+[24Dec2024 07:41:45.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.945] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.84, y=152.00, z=-811.40]
+[24Dec2024 07:41:45.995] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:45.995] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.67, y=152.00, z=-811.18]
+[24Dec2024 07:41:46.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.50, y=152.00, z=-810.96]
+[24Dec2024 07:41:46.095] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.095] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.32, y=152.00, z=-810.74]
+[24Dec2024 07:41:46.145] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.145] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.14, y=152.00, z=-810.53]
+[24Dec2024 07:41:46.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.96, y=152.00, z=-810.31]
+[24Dec2024 07:41:46.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.78, y=152.00, z=-810.10]
+[24Dec2024 07:41:46.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-0.78, y=152.00, z=-810.10]
+[24Dec2024 07:41:46.692] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.692] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.01, To: 0.0075, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=0.90, y=153.00, z=-808.13]
+[24Dec2024 07:41:46.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.02, y=153.00, z=-807.99]
+[24Dec2024 07:41:46.746] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.746] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.009000001, To: 0.0067500006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.08, y=153.00, z=-807.91]
+[24Dec2024 07:41:46.747] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:46.747] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=1.02, y=153.00, z=-807.99]
+[24Dec2024 07:41:47.255] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:47.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.05, To: 0.0375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.59, y=154.00, z=-806.67]
+[24Dec2024 07:41:47.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:41:47.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.05, To: 0.0375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=2.11, y=155.00, z=-805.30]
+[24Dec2024 07:43:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Close Quarters]
+[24Dec2024 07:43:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Fatty Demon]
+[24Dec2024 07:43:55.895] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Tekkyo08}.
+[24Dec2024 07:43:55.902] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Darka0201}.
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Dec2024 07:43:55.923] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Dec2024 07:43:55.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Dec2024 07:43:55.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 07:43:56.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 07:44:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Vasebreaker]
+[24Dec2024 07:44:07.150] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.150] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.65, y=158.00, z=-795.58]
+[24Dec2024 07:44:07.197] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.197] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.47, y=158.00, z=-795.70]
+[24Dec2024 07:44:07.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.27, y=158.00, z=-795.83]
+[24Dec2024 07:44:07.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.03, y=158.00, z=-795.87]
+[24Dec2024 07:44:07.346] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.346] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.77, y=158.00, z=-795.86]
+[24Dec2024 07:44:07.397] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.397] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.51, y=158.00, z=-795.84]
+[24Dec2024 07:44:07.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.23, y=158.00, z=-795.81]
+[24Dec2024 07:44:07.499] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.499] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.01, y=158.00, z=-795.90]
+[24Dec2024 07:44:07.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.022999998, To: 0.017249998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.85, y=158.00, z=-796.07]
+[24Dec2024 07:44:07.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.74, y=158.00, z=-796.28]
+[24Dec2024 07:44:07.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.64, y=158.00, z=-796.53]
+[24Dec2024 07:44:07.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.694] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.56, y=158.00, z=-796.78]
+[24Dec2024 07:44:07.745] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.745] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.49, y=158.00, z=-797.04]
+[24Dec2024 07:44:07.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:07.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-1.49, y=158.00, z=-797.25]
+[24Dec2024 07:44:09.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.013, To: 0.00975, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.07, y=157.00, z=-798.99]
+[24Dec2024 07:44:09.496] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.496] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.02, To: 0.015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.26, y=157.00, z=-799.06]
+[24Dec2024 07:44:09.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.48, y=157.00, z=-799.13]
+[24Dec2024 07:44:09.596] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.596] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.72, y=157.00, z=-799.22]
+[24Dec2024 07:44:09.643] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.643] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-2.98, y=157.00, z=-799.30]
+[24Dec2024 07:44:09.693] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:09.693] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-3.24, y=157.00, z=-799.38]
+[24Dec2024 07:44:10.242] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.242] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-6.17, y=157.00, z=-800.18]
+[24Dec2024 07:44:10.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.297] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-6.73, y=157.00, z=-800.21]
+[24Dec2024 07:44:10.342] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.342] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.012, To: 0.009, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-6.78, y=157.00, z=-800.31]
+[24Dec2024 07:44:10.345] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.345] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.038, To: 0.028499998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-7.10, y=157.00, z=-800.21]
+[24Dec2024 07:44:10.393] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.393] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.006, To: 0.0045, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-7.13, y=157.00, z=-800.26]
+[24Dec2024 07:44:10.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:10.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.033, To: 0.02475, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-7.43, y=157.00, z=-800.18]
+[24Dec2024 07:44:11.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-11.13, y=156.00, z=-799.49]
+[24Dec2024 07:44:11.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-11.69, y=156.00, z=-799.39]
+[24Dec2024 07:44:11.146] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.146] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.039, To: 0.02925, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-12.08, y=156.00, z=-799.35]
+[24Dec2024 07:44:11.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.034, To: 0.025500001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-12.42, y=156.00, z=-799.33]
+[24Dec2024 07:44:11.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-12.73, y=156.00, z=-799.33]
+[24Dec2024 07:44:11.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.295] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.03, To: 0.022499999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-13.03, y=156.00, z=-799.34]
+[24Dec2024 07:44:11.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.349] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-13.32, y=156.00, z=-799.36]
+[24Dec2024 07:44:11.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.029000001, To: 0.021750001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-13.60, y=156.00, z=-799.37]
+[24Dec2024 07:44:11.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-13.89, y=156.00, z=-799.39]
+[24Dec2024 07:44:11.495] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.496] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-14.17, y=156.00, z=-799.41]
+[24Dec2024 07:44:11.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-14.45, y=156.00, z=-799.43]
+[24Dec2024 07:44:11.597] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.597] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-14.73, y=156.00, z=-799.45]
+[24Dec2024 07:44:11.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-15.01, y=156.00, z=-799.47]
+[24Dec2024 07:44:11.693] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.693] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-15.29, y=156.00, z=-799.49]
+[24Dec2024 07:44:11.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-15.57, y=156.00, z=-799.51]
+[24Dec2024 07:44:11.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.795] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-15.85, y=156.00, z=-799.53]
+[24Dec2024 07:44:11.846] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.846] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-16.13, y=156.00, z=-799.55]
+[24Dec2024 07:44:11.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:11.961] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-16.13, y=156.00, z=-799.55]
+[24Dec2024 07:44:12.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-18.53, y=157.00, z=-800.02]
+[24Dec2024 07:44:12.301] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.301] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.033, To: 0.02475, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-18.83, y=157.00, z=-800.07]
+[24Dec2024 07:44:12.355] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.355] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-18.84, y=157.00, z=-800.11]
+[24Dec2024 07:44:12.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.043, To: 0.032250002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.24, y=157.00, z=-800.17]
+[24Dec2024 07:44:12.396] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.397] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.25, y=157.00, z=-800.19]
+[24Dec2024 07:44:12.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.036000002, To: 0.027000003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.59, y=157.00, z=-800.23]
+[24Dec2024 07:44:12.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.60, y=157.00, z=-800.24]
+[24Dec2024 07:44:12.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.032, To: 0.024, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.91, y=157.00, z=-800.27]
+[24Dec2024 07:44:12.502] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.502] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.91, y=157.00, z=-800.28]
+[24Dec2024 07:44:12.505] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:12.505] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.2, To: 0.15, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-19.91, y=157.00, z=-800.27]
+[24Dec2024 07:44:13.059] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.059] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.008, To: 0.006, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-23.37, y=157.00, z=-800.31]
+[24Dec2024 07:44:13.062] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.062] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-23.56, y=157.00, z=-800.24]
+[24Dec2024 07:44:13.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.0069999998, To: 0.00525, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-23.63, y=157.00, z=-800.25]
+[24Dec2024 07:44:13.102] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.102] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.038, To: 0.028499998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-23.93, y=157.00, z=-800.14]
+[24Dec2024 07:44:13.156] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.156] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.004, To: 0.003, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-23.96, y=157.00, z=-800.14]
+[24Dec2024 07:44:13.159] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.159] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.033, To: 0.02475, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.24, y=157.00, z=-800.02]
+[24Dec2024 07:44:13.205] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.205] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.002, To: 0.0015, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.26, y=157.00, z=-800.02]
+[24Dec2024 07:44:13.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.031000001, To: 0.02325, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.51, y=157.00, z=-799.88]
+[24Dec2024 07:44:13.281] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.281] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.53, y=157.00, z=-799.88]
+[24Dec2024 07:44:13.284] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.284] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.68, y=157.00, z=-799.68]
+[24Dec2024 07:44:13.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.001, To: 7.5E-4, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.69, y=157.00, z=-799.68]
+[24Dec2024 07:44:13.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.026, To: 0.0195, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.80, y=157.00, z=-799.44]
+[24Dec2024 07:44:13.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.87, y=157.00, z=-799.19]
+[24Dec2024 07:44:13.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.94, y=157.00, z=-798.92]
+[24Dec2024 07:44:13.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-24.99, y=157.00, z=-798.65]
+[24Dec2024 07:44:13.504] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.504] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.03, y=157.00, z=-798.38]
+[24Dec2024 07:44:13.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.07, y=157.00, z=-798.10]
+[24Dec2024 07:44:13.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.595] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.09, y=157.00, z=-797.82]
+[24Dec2024 07:44:13.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.11, y=157.00, z=-797.54]
+[24Dec2024 07:44:13.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.12, y=157.06, z=-797.26]
+[24Dec2024 07:44:13.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.14, y=157.06, z=-796.98]
+[24Dec2024 07:44:13.794] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.794] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.15, y=157.06, z=-796.70]
+[24Dec2024 07:44:13.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.18, y=157.06, z=-796.42]
+[24Dec2024 07:44:13.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.23, y=157.06, z=-796.15]
+[24Dec2024 07:44:13.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:13.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.29, y=157.06, z=-795.87]
+[24Dec2024 07:44:14.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.35, y=157.06, z=-795.60]
+[24Dec2024 07:44:14.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.40, y=157.00, z=-795.32]
+[24Dec2024 07:44:14.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.40, y=157.00, z=-795.05]
+[24Dec2024 07:44:14.145] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.145] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.36, y=157.00, z=-794.78]
+[24Dec2024 07:44:14.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.31, y=157.00, z=-794.51]
+[24Dec2024 07:44:14.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.24, y=157.00, z=-794.24]
+[24Dec2024 07:44:14.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.308] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.18, y=157.00, z=-793.97]
+[24Dec2024 07:44:14.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.348] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.14, y=157.00, z=-793.70]
+[24Dec2024 07:44:14.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.09, y=157.00, z=-793.43]
+[24Dec2024 07:44:14.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:14.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027999999, To: 0.021, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.05, y=157.00, z=-793.15]
+[24Dec2024 07:44:15.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:15.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.00, y=157.00, z=-792.83]
+[24Dec2024 07:44:16.861] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:16.862] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.25, y=157.00, z=-792.24]
+[24Dec2024 07:44:17.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:17.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.33, y=157.00, z=-791.82]
+[24Dec2024 07:44:19.009] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:19.009] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.005, To: 0.00375, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.40, y=157.00, z=-790.54]
+[24Dec2024 07:44:23.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:23.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.46, y=157.00, z=-792.56]
+[24Dec2024 07:44:23.055] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:23.055] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.55, y=157.00, z=-792.75]
+[24Dec2024 07:44:23.105] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:23.105] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024, To: 0.018, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.67, y=157.00, z=-792.97]
+[24Dec2024 07:44:23.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:23.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.022, To: 0.0165, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-25.70, y=157.00, z=-793.18]
+[24Dec2024 07:44:32.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Close Quarters]
+[24Dec2024 07:44:44.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.015, To: 0.0112499995, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-28.64, y=158.00, z=-792.93]
+[24Dec2024 07:44:44.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.021000002, To: 0.015750002, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-28.70, y=158.00, z=-793.13]
+[24Dec2024 07:44:44.353] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.353] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.022999998, To: 0.017249998, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-28.74, y=158.00, z=-793.36]
+[24Dec2024 07:44:44.403] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.403] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.024999999, To: 0.018749999, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-28.80, y=158.00, z=-793.61]
+[24Dec2024 07:44:44.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.027, To: 0.02025, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-28.86, y=158.00, z=-793.86]
+[24Dec2024 07:44:44.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: temperance - Reducing hunger
+[24Dec2024 07:44:44.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: 0.018000001, To: 0.013500001, For: ServerPlayer['Darka0201'/1285, l='ServerLevel[world]', x=-29.12, y=157.00, z=-794.83]
