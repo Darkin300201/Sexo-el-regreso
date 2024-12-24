@@ -1,0 +1,23 @@
+{
+	id: "b8079503-8d54-46f4-a1c8-db16749f3e64"
+	type: "party"
+	owner: "ab8376b5-3cf1-4527-8f58-cd088db2d775"
+	ranks: {
+		3a234236-41b1-4680-9adb-24289f3a3fae: "member"
+		ab8376b5-3cf1-4527-8f58-cd088db2d775: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Prepucianos"
+		"ftbteams:description": "Coito"
+		"ftbteams:color": "#CA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735021047452L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Darka0201\"}]}" }
+		{ from: "ab8376b5-3cf1-4527-8f58-cd088db2d775", date: 1735021047455L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tekkyo08\"}]}" }
+		{ from: "ab8376b5-3cf1-4527-8f58-cd088db2d775", date: 1735021086619L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tekkyo08\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735021089204L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tekkyo08\"}]}" }
+	]
+	extra: { }
+}

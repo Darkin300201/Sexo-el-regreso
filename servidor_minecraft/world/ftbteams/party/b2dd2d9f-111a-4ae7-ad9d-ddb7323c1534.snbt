@@ -1,0 +1,15 @@
+{
+	id: "b2dd2d9f-111a-4ae7-ad9d-ddb7323c1534"
+	type: "party"
+	owner: "ab8376b5-3cf1-4527-8f58-cd088db2d775"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Generacion del prepucio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
