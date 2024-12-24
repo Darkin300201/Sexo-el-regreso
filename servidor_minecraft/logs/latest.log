@@ -3070,3 +3070,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 06:53:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Diamonds!]
 [24Dec2024 06:53:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Worthy Equipment]
 [24Dec2024 06:53:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Hunt and Gather]
+[24Dec2024 06:56:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Senior Summoner]
+[24Dec2024 06:56:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Disme A Dozen]
+[24Dec2024 06:56:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Disme A Dozen]
+[24Dec2024 06:58:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Diamonds!]

@@ -194,6 +194,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2024-12-24 06:18:17 +0000"
@@ -209,6 +215,12 @@
   "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
       "has_light_gray_cushion": "2024-12-24 06:22:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -470,6 +482,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
@@ -515,6 +539,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -765,6 +795,13 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 06:58:01 +0000",
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
@@ -798,6 +835,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-24 06:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -1171,6 +1214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-24 06:20:34 +0000"
@@ -1502,6 +1557,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_the_recipe": "2024-12-24 06:17:48 +0000"
@@ -1701,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
       "pants": "2024-12-24 06:45:44 +0000"
@@ -1854,6 +1921,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -2073,6 +2146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-24 06:53:27 +0000"
@@ -2220,6 +2299,12 @@
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -2445,6 +2530,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-24 06:57:12 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
@@ -2538,6 +2635,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -2691,6 +2794,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -2836,6 +2945,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-24 06:57:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -2863,6 +2978,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-24 07:02:23 +0000"
     },
     "done": true
   },
@@ -3054,7 +3175,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "highland": "2024-12-24 06:28:17 +0000"
+      "highland": "2024-12-24 06:28:17 +0000",
+      "pumpkin_patch": "2024-12-24 07:00:16 +0000"
     },
     "done": false
   },
@@ -3097,6 +3219,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-24 06:54:01 +0000"
     },
     "done": true
   },
@@ -3496,6 +3624,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_beestinger": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
@@ -3541,6 +3675,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },
@@ -3937,6 +4077,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-24 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 06:56:56 +0000"
     },
     "done": true
   },
@@ -4401,13 +4547,20 @@
       "cooked_beef": "2024-12-24 06:37:09 +0000",
       "apple": "2024-12-24 06:29:26 +0000",
       "potato": "2024-12-24 06:50:28 +0000",
-      "bread": "2024-12-24 06:35:15 +0000"
+      "bread": "2024-12-24 06:35:15 +0000",
+      "carrot": "2024-12-24 07:01:27 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-24 06:54:01 +0000"
     },
     "done": true
   },
@@ -4516,6 +4669,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:58:01 +0000"
     },
     "done": true
   },

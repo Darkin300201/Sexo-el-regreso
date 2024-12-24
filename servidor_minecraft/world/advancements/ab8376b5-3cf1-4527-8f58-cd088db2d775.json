@@ -1905,6 +1905,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
@@ -1977,9 +1983,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -2058,6 +2076,12 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2024-12-24 07:02:31 +0000"
     },
     "done": true
   },
@@ -2187,6 +2211,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
@@ -2202,6 +2232,12 @@
   "mcdw:recipes/hammers/hammer_great_hammer": {
     "criteria": {
       "has_leather": "2024-12-24 06:39:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -2247,6 +2283,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2024-12-24 06:19:05 +0000"
@@ -2262,6 +2304,18 @@
   "mcdw:recipes/daggers/dagger_the_beginning": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -2286,6 +2340,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
     },
     "done": true
   },
@@ -2404,6 +2464,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-24 06:53:27 +0000"
@@ -2488,6 +2554,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-24 06:56:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -2551,6 +2629,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -2674,6 +2758,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-24 06:53:27 +0000"
@@ -2695,6 +2785,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -2806,6 +2902,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -2829,6 +2937,12 @@
       "opened_chest": "2024-12-24 06:18:58 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
@@ -2957,6 +3071,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 06:18:57 +0000"
@@ -2999,9 +3119,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3017,9 +3149,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-24 06:39:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3071,6 +3215,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3092,6 +3242,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3140,6 +3296,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3203,6 +3365,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
@@ -3233,9 +3401,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_last_laugh_silver": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3263,9 +3443,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3311,6 +3509,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -3332,6 +3536,12 @@
   "mcdw:recipes/double_axes/double_axe_double": {
     "criteria": {
       "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3395,6 +3605,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3452,6 +3668,12 @@
   "mcdw:recipes/bows/bow_burst_gale_bow": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3521,6 +3743,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3530,6 +3758,12 @@
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3635,6 +3869,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-24 06:19:04 +0000"
@@ -3668,6 +3908,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3740,6 +3986,12 @@
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -3899,6 +4151,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-24 07:02:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
       "has_wool": "2024-12-24 06:32:38 +0000"
@@ -3923,6 +4181,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
@@ -3941,6 +4205,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -3956,6 +4226,12 @@
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
     },
     "done": true
   },
@@ -3983,9 +4259,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-24 06:57:26 +0000"
     },
     "done": true
   },
@@ -3994,6 +4288,12 @@
       "highland": "2024-12-24 06:23:44 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
@@ -4115,6 +4415,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2024-12-24 06:57:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shortbows/bow_love_spell_bow": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -4142,6 +4448,12 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4217,6 +4529,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2024-12-24 06:51:19 +0000"
@@ -4241,6 +4565,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -4259,6 +4589,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-24 06:53:27 +0000"
@@ -4268,6 +4604,18 @@
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4469,6 +4817,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/paper_lantern": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -4496,6 +4850,12 @@
   "mcdw:recipes/glaives/spear_grave_bane": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4541,6 +4901,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 06:56:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_tempest_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -4556,6 +4922,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4595,6 +4967,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -4607,9 +4985,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-24 07:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-24 07:00:44 +0000"
     },
     "done": true
   },
@@ -4628,6 +5024,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4673,9 +5075,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4733,6 +5153,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/staves/staff_growing_staff": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
@@ -4781,6 +5207,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-24 07:01:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -4790,6 +5222,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4817,6 +5255,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
@@ -4839,13 +5283,26 @@
     "criteria": {
       "cooked_beef": "2024-12-24 06:35:34 +0000",
       "apple": "2024-12-24 06:40:01 +0000",
-      "bread": "2024-12-24 06:33:13 +0000"
+      "bread": "2024-12-24 06:33:13 +0000",
+      "golden_apple": "2024-12-24 06:58:57 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4921,9 +5378,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 07:02:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
@@ -4969,9 +5444,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-24 07:00:44 +0000"
     },
     "done": true
   },
