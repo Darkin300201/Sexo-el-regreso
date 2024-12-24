@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 08:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:17:11 +0000"
@@ -1100,6 +1106,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-24 08:39:48 +0000",
       "minecraft:skeleton": "2024-12-24 07:05:18 +0000",
       "minecraft:spider": "2024-12-24 07:18:04 +0000",
       "minecraft:husk": "2024-12-24 07:47:23 +0000",
@@ -1465,6 +1472,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 08:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-24 07:17:01 +0000"
@@ -1577,6 +1590,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-24 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-24 08:36:19 +0000"
     },
     "done": true
   },
@@ -1820,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 08:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
@@ -1917,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 08:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
@@ -1974,6 +2005,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 08:38:33 +0000"
     },
     "done": true
   },
@@ -2070,6 +2107,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 08:38:34 +0000"
     },
     "done": true
   },
@@ -2471,6 +2514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 08:38:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2024-12-24 06:49:18 +0000"
@@ -2690,6 +2739,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-24 07:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 08:38:12 +0000"
     },
     "done": true
   },
@@ -3792,6 +3847,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 08:38:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -4074,6 +4135,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-24 08:40:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -4128,6 +4195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 08:38:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2024-12-24 06:18:17 +0000"
@@ -4137,6 +4210,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-24 06:53:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 08:38:12 +0000"
     },
     "done": true
   },
@@ -4909,6 +4988,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-24 08:43:07 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mangrove": {
     "criteria": {
       "has_the_recipe": "2024-12-24 06:17:48 +0000"
@@ -5020,6 +5105,12 @@
   "bakery:recipes/baking_station": {
     "criteria": {
       "has_brick": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 08:39:48 +0000"
     },
     "done": true
   },
@@ -5629,6 +5720,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-24 08:42:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
@@ -5778,6 +5875,7 @@
       "cooked_mutton": "2024-12-24 07:55:21 +0000",
       "sweet_berries": "2024-12-24 07:50:34 +0000",
       "cooked_beef": "2024-12-24 06:37:09 +0000",
+      "porkchop": "2024-12-24 08:38:15 +0000",
       "apple": "2024-12-24 06:29:26 +0000",
       "potato": "2024-12-24 06:50:28 +0000",
       "mutton": "2024-12-24 07:50:28 +0000",

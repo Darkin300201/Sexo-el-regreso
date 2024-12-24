@@ -3152,3 +3152,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 08:28:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darka0201> xaero-waypoint:Bajo tierra:B:325:143:-1350:13:false:0:Internal-overworld-waypoints
 [24Dec2024 08:29:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Flawless Crystals]
 [24Dec2024 08:32:01.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Jeb the Misunderstood'/347908, l='ServerLevel[world]', x=480.96, y=142.00, z=-1212.41] died: Jeb the Misunderstood was slain by Tekkyo08
+[24Dec2024 08:38:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Let's Get To Work]
+[24Dec2024 08:38:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Penteconter]
+[24Dec2024 08:38:44.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Ambush]
+[24Dec2024 08:39:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Ambush]
+[24Dec2024 08:40:55.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Penteconter]
+[24Dec2024 08:41:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Fortuitous Militia]
+[24Dec2024 08:42:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Amateur Archaeologist]
+[24Dec2024 08:42:42.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Bloodthirsty]
+[24Dec2024 08:43:53.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Into Fire]
+[24Dec2024 08:44:03.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved too quickly! 5.8904398392901385,1.3147033402537147,-8.28826122008104
+[24Dec2024 08:44:03.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
+[24Dec2024 08:44:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Ice Bucket Challenge]
+[24Dec2024 08:45:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Encino Man]
+[24Dec2024 08:45:43.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Fortuitous Militia]
