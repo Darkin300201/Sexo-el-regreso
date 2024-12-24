@@ -3166,3 +3166,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 08:44:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Ice Bucket Challenge]
 [24Dec2024 08:45:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Encino Man]
 [24Dec2024 08:45:43.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Fortuitous Militia]
+[24Dec2024 08:48:22.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[24Dec2024 08:48:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Barrel Booty]
+[24Dec2024 08:48:42.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4783ms or 95 ticks behind
+[24Dec2024 08:49:02.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5161ms or 103 ticks behind
+[24Dec2024 08:49:20.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[24Dec2024 08:49:38.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[24Dec2024 08:49:44.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Fighting Nightmares]
+[24Dec2024 08:49:48.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/454855, l='ServerLevel[world]', x=332.87, y=158.00, z=-1590.61] died, message: 'Unemployed bled to death'
+[24Dec2024 08:50:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Barrel Booty]

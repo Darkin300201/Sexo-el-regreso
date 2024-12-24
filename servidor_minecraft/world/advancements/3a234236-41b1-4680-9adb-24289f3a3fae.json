@@ -1160,6 +1160,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-24 08:49:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_oak_planks": "2024-12-24 06:18:17 +0000"
@@ -1889,6 +1895,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-24 08:50:58 +0000",
       "opened_chest": "2024-12-24 06:29:08 +0000"
     },
     "done": false
@@ -2375,12 +2382,19 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-24 08:50:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
       "pants": "2024-12-24 06:45:44 +0000",
-      "helmet": "2024-12-24 07:11:24 +0000"
+      "helmet": "2024-12-24 07:11:24 +0000",
+      "tunic": "2024-12-24 08:45:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
@@ -2451,6 +2465,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-24 08:44:36 +0000"
     },
     "done": true
   },
@@ -3594,6 +3614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-24 08:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:18:55 +0000"
@@ -4045,6 +4071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-24 08:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-24 06:53:25 +0000"
@@ -4216,6 +4248,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 08:38:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:44:36 +0000"
     },
     "done": true
   },
@@ -4826,6 +4864,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-24 08:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -4949,6 +4993,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-24 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 08:44:34 +0000"
     },
     "done": true
   },
@@ -5147,6 +5197,12 @@
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:44:36 +0000"
     },
     "done": true
   },
@@ -5423,6 +5479,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-24 08:45:39 +0000"
     },
     "done": true
   },
@@ -5708,6 +5770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 08:44:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_imploding": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -5872,6 +5940,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-24 08:46:24 +0000",
       "cooked_mutton": "2024-12-24 07:55:21 +0000",
       "sweet_berries": "2024-12-24 07:50:34 +0000",
       "cooked_beef": "2024-12-24 06:37:09 +0000",
@@ -5880,6 +5949,7 @@
       "potato": "2024-12-24 06:50:28 +0000",
       "mutton": "2024-12-24 07:50:28 +0000",
       "bread": "2024-12-24 06:35:15 +0000",
+      "cooked_rabbit": "2024-12-24 08:50:05 +0000",
       "cooked_chicken": "2024-12-24 08:01:34 +0000",
       "carrot": "2024-12-24 07:01:27 +0000"
     },
@@ -5942,6 +6012,12 @@
   "vinery:main/get_apple": {
     "criteria": {
       "apple": "2024-12-24 06:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:44:36 +0000"
     },
     "done": true
   },
@@ -6179,6 +6255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-24 08:51:32 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -6212,6 +6294,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-24 07:46:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-24 08:45:39 +0000"
     },
     "done": true
   },
