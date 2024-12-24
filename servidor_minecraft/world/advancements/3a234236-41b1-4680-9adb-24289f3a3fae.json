@@ -519,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-24 08:16:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
@@ -759,6 +765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 08:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
@@ -832,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 07:57:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2024-12-24 07:17:01 +0000"
@@ -874,6 +892,12 @@
     },
     "done": true
   },
+  "piglet_structures:pink_diamond_recipes_activatorer": {
+    "criteria": {
+      "pink_diamond_recipes_activatorer_0": "2024-12-24 08:18:34 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-24 06:37:55 +0000"
@@ -883,6 +907,12 @@
   "mcdw:recipes/scythes/scythe_skull_scythe": {
     "criteria": {
       "has_bone": "2024-12-24 06:33:08 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2024-12-24 08:19:10 +0000"
     },
     "done": true
   },
@@ -961,6 +991,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-12-24 07:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -1299,6 +1335,12 @@
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2024-12-24 06:20:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-24 08:18:30 +0000"
     },
     "done": true
   },
@@ -1759,9 +1801,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -1976,6 +2030,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-24 08:17:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -2147,6 +2207,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-24 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 08:03:43 +0000"
     },
     "done": true
   },
@@ -2548,6 +2614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-24 08:16:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -2842,6 +2914,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -2947,6 +3025,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-24 08:18:30 +0000"
     },
     "done": true
   },
@@ -3100,6 +3184,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-24 08:17:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
@@ -3115,6 +3205,12 @@
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-24 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-24 08:03:43 +0000"
     },
     "done": true
   },
@@ -3154,6 +3250,12 @@
     },
     "done": true
   },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_iron_block": "2024-12-24 06:50:09 +0000"
@@ -3181,6 +3283,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-24 08:16:18 +0000"
     },
     "done": true
   },
@@ -3617,6 +3725,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_vine_whip": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -3656,6 +3770,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
     },
     "done": true
   },
@@ -3821,11 +3941,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-24 08:03:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-24 06:17:48 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2024-12-24 08:19:10 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
@@ -3857,6 +3989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-24 07:57:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
@@ -3884,7 +4022,12 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-24 06:28:17 +0000",
-      "pumpkin_patch": "2024-12-24 07:00:16 +0000"
+      "cold_desert": "2024-12-24 08:16:03 +0000",
+      "coniferous_forest": "2024-12-24 08:19:29 +0000",
+      "pumpkin_patch": "2024-12-24 07:00:16 +0000",
+      "snowy_fir_clearing": "2024-12-24 08:14:14 +0000",
+      "crag": "2024-12-24 07:54:22 +0000",
+      "ominous_woods": "2024-12-24 08:11:30 +0000"
     },
     "done": false
   },
@@ -4165,6 +4308,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-24 08:01:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
@@ -4216,6 +4365,12 @@
   "mcdw:recipes/bows/bow_elite_power_bow": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-24 07:57:42 +0000"
     },
     "done": true
   },
@@ -4282,6 +4437,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
     },
     "done": true
   },
@@ -4444,6 +4605,12 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2024-12-24 06:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
     },
     "done": true
   },
@@ -4765,6 +4932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-24 08:16:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
@@ -4819,6 +4992,12 @@
     },
     "done": true
   },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_frost_slayer": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:37:22 +0000"
@@ -4858,6 +5037,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-24 07:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -4921,6 +5106,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_nether_wart": "2024-12-24 07:57:42 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-24 06:17:48 +0000"
@@ -4954,6 +5145,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-24 06:39:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -5305,6 +5502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:57:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
@@ -5326,6 +5529,12 @@
   "mcdw:recipes/staves/staff_growing_staff": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -5437,6 +5646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-24 08:23:49 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2024-12-24 06:17:48 +0000"
@@ -5497,6 +5712,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:05 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2024-12-24 07:17:01 +0000"
@@ -5529,12 +5750,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-24 07:55:21 +0000",
       "sweet_berries": "2024-12-24 07:50:34 +0000",
       "cooked_beef": "2024-12-24 06:37:09 +0000",
       "apple": "2024-12-24 06:29:26 +0000",
       "potato": "2024-12-24 06:50:28 +0000",
       "mutton": "2024-12-24 07:50:28 +0000",
       "bread": "2024-12-24 06:35:15 +0000",
+      "cooked_chicken": "2024-12-24 08:01:34 +0000",
       "carrot": "2024-12-24 07:01:27 +0000"
     },
     "done": false
@@ -5584,6 +5807,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-24 06:53:39 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:teleporting_leaves_recipes_activatorer": {
+    "criteria": {
+      "teleporting_leaves_recipes_activatorer_0": "2024-12-24 08:17:05 +0000"
     },
     "done": true
   },
@@ -5767,6 +5996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:57:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -5824,6 +6059,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-24 08:05:35 +0000"
     },
     "done": true
   },

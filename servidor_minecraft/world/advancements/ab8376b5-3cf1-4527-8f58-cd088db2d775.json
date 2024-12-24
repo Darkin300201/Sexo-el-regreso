@@ -141,6 +141,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-24 06:19:57 +0000",
       "minecraft:beach": "2024-12-24 05:52:47 +0000",
+      "minecraft:grove": "2024-12-24 07:57:19 +0000",
       "minecraft:forest": "2024-12-24 05:53:31 +0000",
       "minecraft:meadow": "2024-12-24 06:21:48 +0000"
     },
@@ -1878,7 +1879,8 @@
   },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
-      "helmet": "2024-12-24 06:01:36 +0000"
+      "helmet": "2024-12-24 06:01:36 +0000",
+      "boots": "2024-12-24 08:17:22 +0000"
     },
     "done": false
   },
@@ -1957,6 +1959,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-24 06:32:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-24 08:10:40 +0000"
     },
     "done": true
   },
@@ -2086,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 07:58:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
@@ -2188,6 +2202,12 @@
     },
     "done": true
   },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2024-12-24 07:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-24 06:53:27 +0000"
@@ -2203,6 +2223,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-24 06:39:22 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2024-12-24 08:07:14 +0000"
     },
     "done": true
   },
@@ -2332,6 +2358,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-24 07:55:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -2458,6 +2490,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2024-12-24 08:19:06 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
@@ -2497,6 +2535,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
     },
     "done": true
   },
@@ -2738,6 +2782,12 @@
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2024-12-24 07:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 07:58:22 +0000"
     },
     "done": true
   },
@@ -2987,6 +3037,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:affix/artifact": {
+    "criteria": {
+      "sword": "2024-12-24 08:19:18 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_burst": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3071,6 +3127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -3086,6 +3148,12 @@
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-24 07:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
     },
     "done": true
   },
@@ -3267,6 +3335,12 @@
   "mcdw:recipes/crossbows/crossbow_exploding": {
     "criteria": {
       "has_tnt": "2024-12-24 06:18:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
     },
     "done": true
   },
@@ -3540,6 +3614,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-24 08:17:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_sabrewing": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3693,6 +3773,12 @@
   "mcdw:recipes/sickles/sickle_last_laugh_silver": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 07:58:22 +0000"
     },
     "done": true
   },
@@ -4200,6 +4286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-24 08:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
@@ -4626,6 +4718,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-24 08:19:18 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern_light": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -4704,6 +4802,12 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2024-12-24 08:19:06 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-24 07:38:28 +0000"
@@ -4743,10 +4847,21 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-24 06:23:44 +0000",
+      "cold_desert": "2024-12-24 08:16:12 +0000",
+      "field": "2024-12-24 08:09:08 +0000",
+      "coniferous_forest": "2024-12-24 08:19:47 +0000",
       "pumpkin_patch": "2024-12-24 07:14:21 +0000",
+      "snowy_fir_clearing": "2024-12-24 08:14:09 +0000",
+      "crag": "2024-12-24 07:54:22 +0000",
       "ominous_woods": "2024-12-24 07:28:01 +0000"
     },
     "done": false
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-24 08:05:41 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
@@ -4811,6 +4926,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-24 06:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:17:12 +0000"
     },
     "done": true
   },
@@ -5005,6 +5126,13 @@
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2024-12-24 08:01:49 +0000",
+      "helmet": "2024-12-24 08:01:48 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
@@ -5408,6 +5536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:17:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-24 07:15:25 +0000"
@@ -5450,6 +5584,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:17:12 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-24 06:56:33 +0000"
@@ -5468,9 +5608,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-24 08:01:49 +0000"
     },
     "done": true
   },
@@ -5732,6 +5884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 08:17:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-24 06:18:57 +0000"
@@ -5896,6 +6054,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-24 07:55:35 +0000",
       "cooked_beef": "2024-12-24 06:35:34 +0000",
       "apple": "2024-12-24 06:40:01 +0000",
       "bread": "2024-12-24 06:33:13 +0000",
@@ -5940,9 +6099,21 @@
     },
     "done": true
   },
+  "piglet_structures:teleporting_leaves_recipes_activatorer": {
+    "criteria": {
+      "teleporting_leaves_recipes_activatorer_0": "2024-12-24 08:17:08 +0000"
+    },
+    "done": true
+  },
   "vinery:main/get_apple": {
     "criteria": {
       "apple": "2024-12-24 06:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 08:17:12 +0000"
     },
     "done": true
   },
