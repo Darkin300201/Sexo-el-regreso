@@ -3149,3 +3149,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 08:19:10.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [First Village]
 [24Dec2024 08:19:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Smitty WerbenJagerManJensen]
 [24Dec2024 08:19:18.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has completed the challenge [Dawn of Creation]
+[24Dec2024 08:28:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darka0201> xaero-waypoint:Bajo tierra:B:325:143:-1350:13:false:0:Internal-overworld-waypoints
+[24Dec2024 08:29:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Flawless Crystals]
+[24Dec2024 08:32:01.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Jeb the Misunderstood'/347908, l='ServerLevel[world]', x=480.96, y=142.00, z=-1212.41] died: Jeb the Misunderstood was slain by Tekkyo08
