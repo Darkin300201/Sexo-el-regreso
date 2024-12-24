@@ -3113,3 +3113,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 07:43:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Fatty Demon]
 [24Dec2024 07:44:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Vasebreaker]
 [24Dec2024 07:44:32.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Close Quarters]
+[24Dec2024 07:47:23.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Father Gerald the Thirsty'/154779, l='ServerLevel[world]', x=-39.50, y=158.00, z=-794.57] died: Father Gerald the Thirsty was slain by Tekkyo08
+[24Dec2024 07:55:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Flawless Crystals]

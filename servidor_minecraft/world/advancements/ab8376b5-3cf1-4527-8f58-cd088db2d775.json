@@ -2260,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 07:44:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-24 07:00:35 +0000"
@@ -2479,6 +2485,12 @@
   "mcdw:recipes/bows/bow_wind_bow": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-24 07:46:16 +0000"
     },
     "done": true
   },
@@ -2723,6 +2735,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2024-12-24 07:44:35 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 06:18:57 +0000"
@@ -2816,6 +2834,12 @@
   "mcdw:recipes/bows/bow_bubble_burster": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-24 07:44:16 +0000"
     },
     "done": true
   },
@@ -2981,6 +3005,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-24 07:44:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3044,6 +3074,12 @@
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 07:44:42 +0000"
     },
     "done": true
   },
@@ -3150,6 +3186,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-24 07:45:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3165,6 +3207,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 07:44:42 +0000"
     },
     "done": true
   },
@@ -3267,6 +3315,12 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-24 06:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-24 07:44:48 +0000"
     },
     "done": true
   },
@@ -3405,6 +3459,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 07:36:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 07:44:32 +0000"
     },
     "done": true
   },
@@ -3705,6 +3765,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-24 07:45:41 +0000"
     },
     "done": true
   },
@@ -4488,6 +4554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-24 07:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -4521,6 +4593,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-24 06:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-24 07:44:35 +0000"
     },
     "done": true
   },
@@ -5702,6 +5780,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-24 07:45:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-24 07:01:55 +0000"
@@ -5717,6 +5801,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-24 07:49:19 +0000"
     },
     "done": true
   },
@@ -5750,15 +5840,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-24 07:44:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 07:00:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-24 07:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-24 07:46:16 +0000"
     },
     "done": true
   },
@@ -5883,6 +5991,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-24 07:44:48 +0000"
     },
     "done": true
   },
