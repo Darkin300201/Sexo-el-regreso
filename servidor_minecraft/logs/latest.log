@@ -3059,3 +3059,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 06:44:25.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 bled to death
 [24Dec2024 06:44:25.901] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
 [24Dec2024 06:44:25.904] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved
+[24Dec2024 06:45:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Not a Diamond]
+[24Dec2024 06:47:48.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 was doomed to fall by Vex
+[24Dec2024 06:47:48.101] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
+[24Dec2024 06:47:48.101] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved
+[24Dec2024 06:48:04.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Dark Metallurgy]
+[24Dec2024 06:49:09.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Acquire Hardware]
+[24Dec2024 06:51:19.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Bypassing the Expiration Date]
+[24Dec2024 06:52:27.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Piece of Chaos]
+[24Dec2024 06:53:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Diamonds!]
+[24Dec2024 06:53:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Worthy Equipment]
+[24Dec2024 06:53:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Hunt and Gather]

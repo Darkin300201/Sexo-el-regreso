@@ -1905,9 +1905,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -1935,6 +1953,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -1950,6 +1974,12 @@
   "beautify:rope": {
     "criteria": {
       "requirement": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -2013,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
@@ -2073,6 +2109,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-24 06:39:22 +0000"
@@ -2103,6 +2157,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-24 06:38:07 +0000"
@@ -2112,6 +2178,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -2181,6 +2253,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-24 06:32:38 +0000"
@@ -2229,6 +2313,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -2271,6 +2361,19 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 06:53:27 +0000",
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -2298,6 +2401,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -2340,6 +2449,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -2457,6 +2572,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -2547,6 +2668,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -2556,6 +2689,12 @@
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -2703,6 +2842,13 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000",
+      "has_the_recipe": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -2790,6 +2936,12 @@
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -2883,11 +3035,35 @@
     },
     "done": true
   },
+  "mcdw:recipes/spears/spear_fortune": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_nightmares_bite": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
     },
     "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-12-24 06:46:23 +0000"
+    },
+    "done": false
   },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
@@ -2907,6 +3083,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -2916,6 +3098,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "highland": "2024-12-24 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-24 06:45:56 +0000"
     },
     "done": true
   },
@@ -2949,6 +3137,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2024-12-24 06:50:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -2958,6 +3158,24 @@
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-24 06:50:10 +0000"
     },
     "done": true
   },
@@ -2988,6 +3206,12 @@
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -3063,6 +3287,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-12-24 06:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-24 06:39:50 +0000"
@@ -3072,6 +3302,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -3090,6 +3326,12 @@
   "mcdw:recipes/crossbows/crossbow_heavy": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000"
     },
     "done": true
   },
@@ -3162,6 +3404,12 @@
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -3309,6 +3557,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_iron": "2024-12-24 06:19:05 +0000"
@@ -3330,6 +3584,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000"
     },
     "done": true
   },
@@ -3390,6 +3650,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -3486,6 +3752,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:38:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -3651,6 +3923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_soul_scythe": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3690,6 +3968,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-24 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -3843,6 +4127,12 @@
     },
     "done": true
   },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2024-12-24 06:50:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2024-12-24 06:18:57 +0000"
@@ -3909,6 +4199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-24 06:50:29 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -3921,9 +4217,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-24 06:51:19 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dancers_sword": {
     "criteria": {
       "has_leather": "2024-12-24 06:39:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -3951,6 +4259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -3969,6 +4283,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-24 06:52:27 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2024-12-24 06:24:57 +0000"
@@ -3978,6 +4298,18 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 06:50:45 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/gold_chain": {
+    "criteria": {
+      "has_items": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -4125,6 +4457,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
@@ -4140,6 +4478,24 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-24 06:32:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
@@ -4377,6 +4733,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/staves/staff_growing_staff": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-24 06:18:57 +0000"
@@ -4455,6 +4817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -4523,6 +4891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 06:50:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -4538,6 +4912,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 06:53:27 +0000"
     },
     "done": true
   },
@@ -4580,6 +4960,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 06:46:27 +0000"
     },
     "done": true
   },
