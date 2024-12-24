@@ -3014,3 +3014,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 06:22:16.113] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=-50, z=-625} but found not block entity block Block{deep_dark_regrowth:fake_sculk_sensor}[facing=north,waterlogged=false] at location
 [24Dec2024 06:22:16.114] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{deep_dark_regrowth:fake_sculk_sensor}[facing=north,waterlogged=false] but failed at location BlockPos{x=-224, y=-50, z=-625}
 [24Dec2024 06:22:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Scarlet Temptation]
+[24Dec2024 06:23:13.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Bloodthirsty]
+[24Dec2024 06:23:28.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Dec2024 06:23:46.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Dec2024 06:24:04.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[24Dec2024 06:24:23.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Dec2024 06:24:41.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3658ms or 73 ticks behind
+[24Dec2024 06:24:42.315] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, -34], pos: BlockPos{x=-320, y=-26, z=-540}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:24:42.316] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, -34], pos: BlockPos{x=-320, y=-26, z=-539}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:24:42.317] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, -34], pos: BlockPos{x=-320, y=-26, z=-538}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:24:42.319] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, -34], pos: BlockPos{x=-320, y=-23, z=-542}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:25:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 withered away whilst fighting Evil Spirit
+[24Dec2024 06:25:08.060] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
+[24Dec2024 06:25:08.065] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved
+[24Dec2024 06:27:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Knowledge raises the soul]
+[24Dec2024 06:27:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [I Found It Underground]
+[24Dec2024 06:29:08.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement ['X' Marks the Spot]
+[24Dec2024 06:31:31.036] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-22, -50], pos: BlockPos{x=-337, y=-23, z=-790}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:31:31.036] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-22, -50], pos: BlockPos{x=-337, y=-23, z=-789}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:31:31.036] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-22, -50], pos: BlockPos{x=-337, y=-23, z=-788}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:31:31.037] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-22, -50], pos: BlockPos{x=-337, y=-20, z=-792}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[24Dec2024 06:31:54.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [I Found It Underground]
+[24Dec2024 06:31:54.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Not a Diamond]
+[24Dec2024 06:33:07.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Life turned out to be a comedy]
+[24Dec2024 06:33:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Sweet Dreams]
+[24Dec2024 06:33:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Sweet Dreams]
+[24Dec2024 06:34:22.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Junior Summoner]
+[24Dec2024 06:34:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Piece of Chaos]
+[24Dec2024 06:34:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Dark Metallurgy]
+[24Dec2024 06:37:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Isn't It Iron Pick]
+[24Dec2024 06:37:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Isn't It Iron Pick]
+[24Dec2024 06:38:07.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Stone Age]
+[24Dec2024 06:38:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [A Yummy Snack]
+[24Dec2024 06:38:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Ashes 'n Bones]
+[24Dec2024 06:38:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Far From Perfect]
+[24Dec2024 06:39:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Ashes 'n Bones]
+[24Dec2024 06:39:22.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [A Strange Grave Dust]
+[24Dec2024 06:39:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Scarlet Temptation]
+[24Dec2024 06:40:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Knowledge raises the soul]
+[24Dec2024 06:42:01.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 was slain by Vex
+[24Dec2024 06:42:01.744] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
+[24Dec2024 06:42:01.750] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved
+[24Dec2024 06:42:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Bypassing the Expiration Date]
+[24Dec2024 06:44:25.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 bled to death
+[24Dec2024 06:44:25.901] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
+[24Dec2024 06:44:25.904] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved
