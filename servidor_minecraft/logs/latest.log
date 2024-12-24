@@ -3086,3 +3086,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 07:13:08.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
 [24Dec2024 07:13:09.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
 [24Dec2024 07:13:09.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[24Dec2024 07:15:25.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Bone Crusher]
+[24Dec2024 07:18:52.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Strong or Careful]
+[24Dec2024 07:18:52.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 was slain by Vex
+[24Dec2024 07:18:52.893] [Server thread/WARN] [tombstone/]: The drop event of the player Tekkyo08 was canceled by another mod
+[24Dec2024 07:18:52.900] [Server thread/INFO] [tombstone/]: The player Tekkyo08 has successfully been saved
+[24Dec2024 07:19:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 was slain by Vex
+[24Dec2024 07:19:01.090] [Server thread/WARN] [tombstone/]: The drop event of the player Darka0201 was canceled by another mod
+[24Dec2024 07:19:01.104] [Server thread/INFO] [tombstone/]: The player Darka0201 has successfully been saved

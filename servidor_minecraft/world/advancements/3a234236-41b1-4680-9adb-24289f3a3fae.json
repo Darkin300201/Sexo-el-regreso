@@ -730,6 +730,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
@@ -920,8 +926,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-24 07:05:18 +0000",
+      "minecraft:spider": "2024-12-24 07:18:04 +0000",
       "minecraft:cave_spider": "2024-12-24 06:40:55 +0000",
       "minecraft:stray": "2024-12-24 06:41:00 +0000",
+      "minecraft:vex": "2024-12-24 07:18:24 +0000",
       "minecraft:zombie": "2024-12-24 06:38:44 +0000",
       "minecraft:drowned": "2024-12-24 06:20:34 +0000"
     },
@@ -1185,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2024-12-24 06:48:04 +0000"
@@ -1230,6 +1244,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-24 06:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
@@ -2425,6 +2445,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -2458,6 +2484,12 @@
   "vinery:recipes/big_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 07:18:52 +0000"
     },
     "done": true
   },
@@ -2644,6 +2676,12 @@
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2024-12-24 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
@@ -2863,6 +2901,12 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2024-12-24 06:17:48 +0000"
@@ -3044,6 +3088,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-24 07:11:23 +0000"
@@ -3113,6 +3163,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
@@ -3459,6 +3515,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:49:09 +0000"
@@ -3726,6 +3788,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
@@ -4107,6 +4175,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 07:16:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2024-12-24 06:18:17 +0000"
@@ -4233,6 +4307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 07:16:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
@@ -4266,6 +4346,12 @@
   "fairylights:recipes/fairylights/paper_lantern": {
     "criteria": {
       "has_iron": "2024-12-24 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
@@ -4833,6 +4919,12 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-24 06:17:48 +0000"
@@ -4933,6 +5025,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_rapid": {
     "criteria": {
       "has_string": "2024-12-24 06:40:57 +0000"
@@ -5020,6 +5118,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2024-12-24 07:17:01 +0000"
     },
     "done": true
   },
