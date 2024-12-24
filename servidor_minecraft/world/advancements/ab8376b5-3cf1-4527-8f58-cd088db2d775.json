@@ -2103,6 +2103,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_base": "2024-12-24 07:06:01 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2024-12-24 06:18:57 +0000"
@@ -2340,6 +2346,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 06:15:14 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-12-24 07:13:07 +0000"
     },
     "done": true
   },
@@ -3419,6 +3431,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-24 07:12:22 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_harp": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
@@ -3995,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-24 07:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-24 06:38:07 +0000"
@@ -4433,6 +4457,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-24 07:09:30 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2024-12-24 06:50:29 +0000"
@@ -4748,6 +4778,12 @@
   "mcdw:recipes/bows/bow_winters_touch": {
     "criteria": {
       "has_string": "2024-12-24 06:37:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 07:08:38 +0000"
     },
     "done": true
   },
@@ -5195,6 +5231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 07:08:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_imploding": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 06:19:05 +0000"
@@ -5284,7 +5326,8 @@
       "cooked_beef": "2024-12-24 06:35:34 +0000",
       "apple": "2024-12-24 06:40:01 +0000",
       "bread": "2024-12-24 06:33:13 +0000",
-      "golden_apple": "2024-12-24 06:58:57 +0000"
+      "golden_apple": "2024-12-24 06:58:57 +0000",
+      "carrot": "2024-12-24 07:10:04 +0000"
     },
     "done": false
   },

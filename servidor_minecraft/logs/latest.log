@@ -3074,3 +3074,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 06:56:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Disme A Dozen]
 [24Dec2024 06:56:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Disme A Dozen]
 [24Dec2024 06:58:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Diamonds!]
+[24Dec2024 07:07:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Take Aim]
+[24Dec2024 07:09:30.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [This is my Boomstick]
+[24Dec2024 07:09:30.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WatcherEntity['Lenny'/53204, l='ServerLevel[world]', x=-150.64, y=139.00, z=-461.71] died: Lenny was slain by Darka0201
+[24Dec2024 07:09:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [He Wasn't So Strong]
+[24Dec2024 07:12:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Far From Perfect]
+[24Dec2024 07:12:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Crawling in my Bark]
+[24Dec2024 07:13:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Crawling in my Bark]
+[24Dec2024 07:13:07.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[24Dec2024 07:13:08.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[24Dec2024 07:13:08.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[24Dec2024 07:13:09.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[24Dec2024 07:13:09.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
