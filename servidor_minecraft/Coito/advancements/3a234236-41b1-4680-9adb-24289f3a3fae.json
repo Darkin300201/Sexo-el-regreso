@@ -204,6 +204,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_4": "2024-12-26 17:40:13 +0000",
       "squireofthe_dark_lord_0": "2024-12-25 18:29:37 +0000"
     },
     "done": false
@@ -1984,6 +1985,7 @@
       "minecraft:vindicator": "2024-12-25 19:06:30 +0000",
       "minecraft:spider": "2024-12-25 19:39:18 +0000",
       "minecraft:creeper": "2024-12-26 17:09:32 +0000",
+      "minecraft:phantom": "2024-12-26 17:37:53 +0000",
       "minecraft:husk": "2024-12-25 20:47:04 +0000",
       "minecraft:cave_spider": "2024-12-26 17:15:15 +0000",
       "minecraft:stray": "2024-12-25 18:57:19 +0000",
@@ -4750,6 +4752,7 @@
   },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
+      "pants": "2024-12-26 17:42:43 +0000",
       "helmet": "2024-12-25 19:13:48 +0000",
       "boots": "2024-12-26 17:11:15 +0000"
     },
@@ -6757,6 +6760,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-26 17:38:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_blinds": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -6886,6 +6895,18 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2024-12-26 17:12:00 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-26 17:45:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-26 17:38:00 +0000"
     },
     "done": true
   },
@@ -7081,6 +7102,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2024-12-26 17:39:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -7093,6 +7120,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-26 17:37:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-26 17:33:42 +0000"
@@ -7102,6 +7135,12 @@
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-26 17:45:57 +0000"
     },
     "done": true
   },
