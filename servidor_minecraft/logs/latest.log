@@ -3136,3 +3136,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 18:23:21.894] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [26Dec2024 18:29:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [It Belongs in a Museum]
 [26Dec2024 18:32:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Village Defender]
+[26Dec2024 18:45:30.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[26Dec2024 18:45:43.308] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: piglet_structures:ruins_mega_taiga/mega_taiga_ancient_village_suburbs
+[26Dec2024 18:45:43.308] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: piglet_structures:ruins_mega_taiga/mega_taiga_ancient_village_suburbs
+[26Dec2024 18:45:43.309] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: piglet_structures:ruins_mega_taiga/mega_taiga_ancient_village_suburbs
+[26Dec2024 18:45:43.309] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: piglet_structures:ruins_mega_taiga/mega_taiga_ancient_village_suburbs
+[26Dec2024 18:45:47.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[26Dec2024 18:46:05.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Dec2024 18:46:23.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[26Dec2024 18:46:29.661] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[26Dec2024 18:46:40.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[26Dec2024 18:46:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 18:49:43.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -9.06405856853803,1.0321139792259828,-4.187389963924488
+[26Dec2024 18:49:47.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -10.144201417593251,0.11070340288986102,0.3855605141657179
+[26Dec2024 18:49:47.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[26Dec2024 18:49:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 18:49:53.384] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 18:49:53.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Dec2024 18:49:53.389] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 torch
+[26Dec2024 18:49:53.389] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 soul_jar
+[26Dec2024 18:49:53.390] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[26Dec2024 18:49:53.633] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 18:49:53.633] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[26Dec2024 18:49:53.634] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 torch
+[26Dec2024 18:49:53.637] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 soul_jar
+[26Dec2024 18:49:53.637] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[26Dec2024 18:49:53.882] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 18:49:53.883] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[26Dec2024 18:49:53.883] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 torch
+[26Dec2024 18:49:53.883] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 soul_jar
+[26Dec2024 18:49:53.884] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[26Dec2024 18:49:54.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -9.987463962817003,1.6188199716894616,0.39686857517699536
+[26Dec2024 18:49:54.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved too quickly! -9.958667965109782,1.121492320992644,2.6124589051059957
+[26Dec2024 18:49:57.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -10.001020997533203,0.0,0.14554624476886602
+[26Dec2024 18:50:07.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
+[26Dec2024 18:51:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Good Demoman]
+[26Dec2024 18:52:10.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Exorcism]
+[26Dec2024 18:52:47.922] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[26Dec2024 18:52:47.923] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
