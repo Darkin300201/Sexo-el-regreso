@@ -3081,3 +3081,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 16:42:09.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Almost Like a Fan]
 [26Dec2024 16:43:01.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Crops of the Wild]
 [26Dec2024 16:49:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Wild Crops]
+[26Dec2024 16:51:37.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[26Dec2024 16:51:54.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Life Finds A Way]
+[26Dec2024 16:52:02.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VallumraptorEntity['Gabby the Feeble'/244176, l='ServerLevel[Coito]', x=802.92, y=97.00, z=-472.08] died: Gabby the Feeble was slain by Darka0201
+[26Dec2024 16:52:08.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Father Luke the Toasty'/327058, l='ServerLevel[Coito]', x=862.03, y=103.00, z=-412.70] died: Father Luke the Toasty was slain by Tekkyo08
+[26Dec2024 16:52:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [He Wasn't So Strong]

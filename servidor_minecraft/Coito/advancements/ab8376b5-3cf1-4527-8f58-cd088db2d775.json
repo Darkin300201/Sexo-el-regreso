@@ -151,6 +151,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-26 16:52:53 +0000",
       "snowblossom_grove": "2024-12-25 18:03:42 +0000",
       "highland": "2024-12-25 19:15:38 +0000",
       "maple_woods": "2024-12-25 19:15:58 +0000",
@@ -159,6 +160,7 @@
       "seasonal_orchard": "2024-12-26 16:37:44 +0000",
       "seasonal_forest": "2024-12-25 19:32:08 +0000",
       "snowy_fir_clearing": "2024-12-26 16:44:25 +0000",
+      "tundra": "2024-12-26 16:53:35 +0000",
       "glowing_grotto": "2024-12-25 19:27:19 +0000",
       "snowy_maple_woods": "2024-12-25 17:57:05 +0000",
       "crag": "2024-12-26 16:37:47 +0000"
@@ -3826,6 +3828,8 @@
       "minecraft:skeleton": "2024-12-25 20:12:10 +0000",
       "minecraft:vindicator": "2024-12-25 19:06:01 +0000",
       "minecraft:spider": "2024-12-25 19:24:24 +0000",
+      "minecraft:phantom": "2024-12-26 16:51:37 +0000",
+      "minecraft:witch": "2024-12-26 16:53:15 +0000",
       "minecraft:husk": "2024-12-25 20:47:09 +0000",
       "minecraft:cave_spider": "2024-12-25 19:32:51 +0000",
       "minecraft:stray": "2024-12-25 19:33:35 +0000",
@@ -6047,15 +6051,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-26 16:50:44 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2024-12-26 16:42:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 16:56:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-26 16:34:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-26 16:51:54 +0000"
     },
     "done": true
   },
@@ -6071,9 +6093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 16:56:29 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2024-12-26 16:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 16:56:29 +0000"
     },
     "done": true
   },
@@ -6082,6 +6116,12 @@
       "has_wood_bowl": "2024-12-26 16:45:35 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-26 16:51:37 +0000"
+    },
+    "done": false
   },
   "piglet_structures:teleporting_leaves_recipes_activatorer": {
     "criteria": {
@@ -6092,6 +6132,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2024-12-26 16:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-26 16:50:44 +0000"
     },
     "done": true
   },
