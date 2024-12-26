@@ -172,13 +172,15 @@
       "minecraft:old_growth_pine_taiga": "2024-12-25 19:09:34 +0000",
       "minecraft:taiga": "2024-12-25 19:01:05 +0000",
       "minecraft:frozen_river": "2024-12-26 16:58:12 +0000",
+      "minecraft:beach": "2024-12-26 17:34:34 +0000",
       "minecraft:river": "2024-12-25 19:09:28 +0000",
       "minecraft:snowy_plains": "2024-12-25 18:27:44 +0000",
       "minecraft:stony_shore": "2024-12-25 19:48:50 +0000",
       "minecraft:snowy_taiga": "2024-12-25 18:27:38 +0000",
       "minecraft:cold_ocean": "2024-12-25 19:49:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 19:09:19 +0000",
-      "minecraft:snowy_beach": "2024-12-26 16:58:04 +0000"
+      "minecraft:snowy_beach": "2024-12-26 16:58:04 +0000",
+      "minecraft:plains": "2024-12-26 17:33:15 +0000"
     },
     "done": false
   },
@@ -1985,6 +1987,7 @@
       "minecraft:husk": "2024-12-25 20:47:04 +0000",
       "minecraft:cave_spider": "2024-12-26 17:15:15 +0000",
       "minecraft:stray": "2024-12-25 18:57:19 +0000",
+      "minecraft:vex": "2024-12-26 17:23:25 +0000",
       "minecraft:zombie": "2024-12-25 19:09:10 +0000",
       "minecraft:zombie_villager": "2024-12-26 17:13:33 +0000"
     },
@@ -6718,6 +6721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:33:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2024-12-26 16:43:01 +0000"
@@ -6733,6 +6742,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-26 17:18:00 +0000"
     },
     "done": true
   },
@@ -6820,6 +6835,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-26 17:33:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-26 16:53:17 +0000"
@@ -6837,6 +6858,12 @@
       "has_planks": "2024-12-26 16:53:18 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_0": "2024-12-26 17:18:09 +0000"
+    },
+    "done": false
   },
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
@@ -6880,6 +6907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:33:31 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2024-12-26 16:53:18 +0000"
@@ -6916,6 +6949,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-26 17:24:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -6925,6 +6964,12 @@
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 17:33:42 +0000"
     },
     "done": true
   },
@@ -6982,6 +7027,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 17:33:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -7033,6 +7090,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 17:33:42 +0000"
     },
     "done": true
   },
