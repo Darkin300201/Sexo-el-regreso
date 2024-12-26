@@ -156,9 +156,12 @@
       "maple_woods": "2024-12-25 19:15:58 +0000",
       "field": "2024-12-25 19:15:21 +0000",
       "forested_field": "2024-12-25 19:11:29 +0000",
+      "seasonal_orchard": "2024-12-26 16:37:44 +0000",
       "seasonal_forest": "2024-12-25 19:32:08 +0000",
+      "snowy_fir_clearing": "2024-12-26 16:44:25 +0000",
       "glowing_grotto": "2024-12-25 19:27:19 +0000",
-      "snowy_maple_woods": "2024-12-25 17:57:05 +0000"
+      "snowy_maple_woods": "2024-12-25 17:57:05 +0000",
+      "crag": "2024-12-26 16:37:47 +0000"
     },
     "done": false
   },
@@ -6044,9 +6047,51 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-26 16:42:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-26 16:34:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-12-26 16:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-26 16:45:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-26 16:42:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-12-26 16:45:35 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:teleporting_leaves_recipes_activatorer": {
+    "criteria": {
+      "teleporting_leaves_recipes_activatorer_0": "2024-12-26 16:44:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-12-26 16:45:35 +0000"
     },
     "done": true
   },
