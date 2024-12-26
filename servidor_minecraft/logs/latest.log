@@ -3133,3 +3133,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 17:55:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Dark Blacksmith]
 [26Dec2024 17:55:47.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [My Size!]
 [26Dec2024 18:01:19.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
+[26Dec2024 18:23:21.894] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[26Dec2024 18:29:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [It Belongs in a Museum]
+[26Dec2024 18:32:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Village Defender]
