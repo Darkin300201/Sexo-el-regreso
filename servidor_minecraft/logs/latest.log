@@ -3213,3 +3213,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 19:47:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Magery]
 [26Dec2024 19:53:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
 [26Dec2024 19:53:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
+[26Dec2024 19:57:11.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
+[26Dec2024 19:57:58.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 lost connection: Disconnected
+[26Dec2024 19:57:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 left the game
+[26Dec2024 20:01:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Deceived Hopes]
+[26Dec2024 20:02:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [The Forgotten Story]
+[26Dec2024 20:02:27.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [A Metropolis of Restless Souls]
+[26Dec2024 20:03:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Sneak 100]
+[26Dec2024 20:12:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has completed the challenge [Phantom Thief]
+[26Dec2024 20:13:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Master of Silence]
