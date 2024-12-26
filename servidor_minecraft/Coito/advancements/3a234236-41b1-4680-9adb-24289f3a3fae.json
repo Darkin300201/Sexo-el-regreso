@@ -160,6 +160,7 @@
       "forested_field": "2024-12-25 19:11:24 +0000",
       "seasonal_orchard": "2024-12-26 16:42:05 +0000",
       "seasonal_forest": "2024-12-25 19:31:58 +0000",
+      "snowy_coniferous_forest": "2024-12-26 18:56:20 +0000",
       "snowy_fir_clearing": "2024-12-26 16:45:38 +0000",
       "tundra": "2024-12-26 16:53:38 +0000",
       "glowing_grotto": "2024-12-25 19:27:24 +0000",
@@ -179,6 +180,8 @@
       "minecraft:stony_shore": "2024-12-25 19:48:50 +0000",
       "minecraft:snowy_taiga": "2024-12-25 18:27:38 +0000",
       "minecraft:cold_ocean": "2024-12-25 19:49:59 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-26 19:00:38 +0000",
+      "minecraft:frozen_ocean": "2024-12-26 18:52:38 +0000",
       "minecraft:ocean": "2024-12-26 18:43:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 19:09:19 +0000",
       "minecraft:snowy_beach": "2024-12-26 16:58:04 +0000",
@@ -6692,15 +6695,39 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -6728,9 +6755,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 18:36:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 18:49:13 +0000"
     },
     "done": true
   },
@@ -6743,6 +6788,12 @@
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
     },
     "done": true
   },
@@ -6761,6 +6812,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-26 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
     },
     "done": true
   },
@@ -6794,9 +6851,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-26 18:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -6806,9 +6887,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -6842,9 +6935,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
     },
     "done": true
   },
@@ -6872,6 +6977,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 18:36:58 +0000"
@@ -6893,6 +7004,18 @@
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 19:03:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -6932,6 +7055,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-26 18:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2024-12-26 18:31:09 +0000"
@@ -6941,6 +7088,30 @@
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
     },
     "done": true
   },
@@ -6956,9 +7127,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
     },
     "done": true
   },
@@ -6971,6 +7172,18 @@
   "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
       "bowfor_wizards_0": "2024-12-26 17:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:06:43 +0000"
     },
     "done": true
   },
@@ -7004,6 +7217,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-26 19:03:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
@@ -7022,9 +7253,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
     },
     "done": true
   },
@@ -7052,15 +7313,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/chromium_ingot": {
+    "criteria": {
+      "has_raw_chromium": "2024-12-26 19:06:28 +0000"
     },
     "done": true
   },
@@ -7088,9 +7367,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
     },
     "done": true
   },
@@ -7100,9 +7397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-26 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-26 18:57:58 +0000"
     },
     "done": true
   },
@@ -7112,9 +7421,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7136,6 +7457,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2024-12-26 18:28:03 +0000"
@@ -7151,6 +7484,18 @@
   "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-12-26 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
     },
     "done": true
   },
@@ -7172,6 +7517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
@@ -7181,6 +7532,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7208,9 +7565,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-26 16:38:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7229,6 +7622,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
     },
     "done": true
   },
@@ -7262,9 +7661,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2024-12-26 18:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
     },
     "done": true
   },
@@ -7286,15 +7697,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 18:49:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
     },
     "done": true
   },
@@ -7316,9 +7763,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7328,9 +7787,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-26 18:30:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7346,9 +7817,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/combat/koloss_blade": {
+    "criteria": {
+      "has_lerasium_nugget": "2024-12-26 19:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-26 19:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7373,6 +7886,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-26 18:30:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:05:11 +0000"
     },
     "done": true
   },
@@ -7424,6 +7943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:17 +0000"
@@ -7442,6 +7967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2024-12-26 17:24:44 +0000"
@@ -7451,6 +7982,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
     },
     "done": true
   },
@@ -7472,9 +8009,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
     },
     "done": true
   },
@@ -7484,9 +8045,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7520,9 +8117,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7535,6 +8144,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7556,9 +8171,27 @@
     },
     "done": true
   },
+  "allomancy:main/become_mistborn": {
+    "criteria": {
+      "lerasium_nugget": "2024-12-26 19:08:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:07:03 +0000"
     },
     "done": true
   },
@@ -7574,9 +8207,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7592,9 +8243,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/chromium_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_chromium": "2024-12-26 19:06:28 +0000"
     },
     "done": true
   },
@@ -7616,6 +8285,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -7631,6 +8312,12 @@
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-26 18:52:10 +0000"
     },
     "done": true
   },
@@ -7658,9 +8345,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7676,6 +8381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-26 19:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
@@ -7685,6 +8396,12 @@
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7700,6 +8417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-26 18:52:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:17 +0000"
@@ -7709,6 +8432,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-26 18:52:59 +0000"
     },
     "done": true
   },
@@ -7730,6 +8459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_flail": {
     "criteria": {
       "has_chain": "2024-12-26 17:39:49 +0000"
@@ -7748,15 +8483,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 19:05:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-26 19:06:26 +0000"
     },
     "done": true
   },
@@ -7784,6 +8537,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
@@ -7793,6 +8552,18 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2024-12-26 18:50:16 +0000"
     },
     "done": true
   },
@@ -7817,6 +8588,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:06:43 +0000"
     },
     "done": true
   },

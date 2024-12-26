@@ -3174,3 +3174,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 18:52:10.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Exorcism]
 [26Dec2024 18:52:47.922] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [26Dec2024 18:52:47.923] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Dec2024 18:53:48.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Jeb'/2582056, l='ServerLevel[Coito]', x=248.18, y=63.00, z=-2338.51] died: Jeb was slain by Darka0201
+[26Dec2024 18:56:47.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[26Dec2024 18:57:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 18:57:05.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[26Dec2024 18:57:58.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Double Trouble]
+[26Dec2024 19:00:27.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! 6.413653653500148,-1.318001959175838,8.220261442715582
+[26Dec2024 19:00:28.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[26Dec2024 19:00:31.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -0.03308775677032827,-0.2983223713815377,-10.236087440155188
+[26Dec2024 19:00:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -0.7678750518920765,-0.15372166811844323,-10.493830005787004
+[26Dec2024 19:00:47.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[26Dec2024 19:00:54.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! -9.105010004399276,-2.537312869304621,5.770934584058068
+[26Dec2024 19:01:05.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[26Dec2024 19:01:19.789] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[26Dec2024 19:01:23.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3780ms or 75 ticks behind
+[26Dec2024 19:01:44.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5365ms or 107 ticks behind
+[26Dec2024 19:02:03.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4627ms or 92 ticks behind
+[26Dec2024 19:05:42.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Stone Age]
+[26Dec2024 19:05:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 19:06:36.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved wrongly!
+[26Dec2024 19:06:48.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 19:07:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Eye Spy]
+[26Dec2024 19:07:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Eye Spy]
+[26Dec2024 19:08:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Become Mistborn!]
+[26Dec2024 19:10:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [The Cyclops]
