@@ -3205,3 +3205,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 19:25:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Encino Man]
 [26Dec2024 19:26:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Cover Me with Diamonds]
 [26Dec2024 19:30:37.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 19:40:03.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['Freshah'/3547780, l='ServerLevel[Coito]', x=216.30, y=-38.00, z=-2613.11] died: Freshah was slain by Tekkyo08
+[26Dec2024 19:40:55.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Jesus'/3242063, l='ServerLevel[Coito]', x=242.41, y=-42.00, z=-2504.52] died: Jesus was slain by Darka0201
+[26Dec2024 19:41:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
+[26Dec2024 19:45:10.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Junior Summoner]
+[26Dec2024 19:46:22.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [How long's this been here?]
+[26Dec2024 19:47:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Magery]
+[26Dec2024 19:53:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 19:53:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]

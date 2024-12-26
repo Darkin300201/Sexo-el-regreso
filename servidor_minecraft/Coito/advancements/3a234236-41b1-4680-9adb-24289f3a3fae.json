@@ -6735,6 +6735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-26 19:50:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-26 19:10:43 +0000"
@@ -7026,6 +7032,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 18:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 19:45:25 +0000"
     },
     "done": true
   },
@@ -7791,6 +7803,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-26 19:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-26 18:49:13 +0000"
@@ -8355,6 +8373,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-26 19:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2024-12-26 19:16:44 +0000"
@@ -8499,6 +8523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-26 19:50:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 16:53:18 +0000"
@@ -8538,6 +8568,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-26 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 19:47:20 +0000"
     },
     "done": true
   },
@@ -8601,6 +8637,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-26 19:46:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-26 17:57:49 +0000"
@@ -8616,6 +8658,12 @@
   "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-26 19:10:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 19:45:25 +0000"
     },
     "done": true
   },
