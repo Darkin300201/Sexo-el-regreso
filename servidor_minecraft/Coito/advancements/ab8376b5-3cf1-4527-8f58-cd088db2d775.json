@@ -180,6 +180,7 @@
       "minecraft:stony_shore": "2024-12-25 18:56:08 +0000",
       "minecraft:snowy_taiga": "2024-12-25 18:02:21 +0000",
       "minecraft:cold_ocean": "2024-12-25 19:49:53 +0000",
+      "minecraft:lush_caves": "2024-12-26 19:11:12 +0000",
       "minecraft:deep_cold_ocean": "2024-12-26 19:00:46 +0000",
       "minecraft:frozen_ocean": "2024-12-26 18:52:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 19:09:16 +0000",
@@ -6097,6 +6098,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-26 19:24:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-26 19:06:54 +0000"
@@ -6289,6 +6296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 19:19:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-26 17:12:53 +0000"
@@ -6331,6 +6344,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-26 19:19:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-26 19:06:54 +0000"
@@ -6361,6 +6380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-26 19:07:03 +0000"
@@ -6385,6 +6410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-26 19:06:54 +0000"
@@ -6400,6 +6431,12 @@
   "cfm:recipes/decorations/acacia_blinds": {
     "criteria": {
       "has_log": "2024-12-26 17:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-26 19:23:00 +0000"
     },
     "done": true
   },
@@ -6841,6 +6878,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-26 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-26 19:06:52 +0000"
@@ -6868,6 +6911,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-26 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-26 19:19:38 +0000"
     },
     "done": true
   },
@@ -6973,6 +7022,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-26 19:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-26 16:56:29 +0000"
@@ -7033,6 +7088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-26 19:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-26 19:06:52 +0000"
@@ -7081,6 +7142,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-26 19:21:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-26 19:05:42 +0000"
@@ -7090,6 +7157,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2024-12-26 19:05:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 19:19:38 +0000"
     },
     "done": true
   },
@@ -7210,6 +7283,12 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-26 19:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-26 19:19:38 +0000"
     },
     "done": true
   },

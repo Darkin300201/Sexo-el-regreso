@@ -3198,3 +3198,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 19:07:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Eye Spy]
 [26Dec2024 19:08:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Become Mistborn!]
 [26Dec2024 19:10:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [The Cyclops]
+[26Dec2024 19:15:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[26Dec2024 19:21:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [How long's this been here?]
+[26Dec2024 19:24:53.494] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[26Dec2024 19:24:53.495] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Dec2024 19:25:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Encino Man]
+[26Dec2024 19:26:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Cover Me with Diamonds]
+[26Dec2024 19:30:37.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
