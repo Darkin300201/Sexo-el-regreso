@@ -3092,3 +3092,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 17:09:20.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Junior Summoner]
 [26Dec2024 17:09:27.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Fatty Demon]
 [26Dec2024 17:12:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [The Wind Darkening]
+[26Dec2024 17:12:12.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[26Dec2024 17:12:14.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Double Trouble]
+[26Dec2024 17:12:20.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/735469, l='ServerLevel[Coito]', x=1037.98, y=79.00, z=-1637.32] died: Undead Knight was slain by Tekkyo08
+[26Dec2024 17:12:33.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[26Dec2024 17:13:43.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Dark Creator]
+[26Dec2024 17:17:14.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Bow for Wizards]
+[26Dec2024 17:17:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Bow for Wizards]
+[26Dec2024 17:18:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Senior Summoner]

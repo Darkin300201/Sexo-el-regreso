@@ -1981,9 +1981,12 @@
       "minecraft:skeleton": "2024-12-25 20:13:08 +0000",
       "minecraft:vindicator": "2024-12-25 19:06:30 +0000",
       "minecraft:spider": "2024-12-25 19:39:18 +0000",
+      "minecraft:creeper": "2024-12-26 17:09:32 +0000",
       "minecraft:husk": "2024-12-25 20:47:04 +0000",
+      "minecraft:cave_spider": "2024-12-26 17:15:15 +0000",
       "minecraft:stray": "2024-12-25 18:57:19 +0000",
-      "minecraft:zombie": "2024-12-25 19:09:10 +0000"
+      "minecraft:zombie": "2024-12-25 19:09:10 +0000",
+      "minecraft:zombie_villager": "2024-12-26 17:13:33 +0000"
     },
     "done": false
   },
@@ -4744,7 +4747,8 @@
   },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
-      "helmet": "2024-12-25 19:13:48 +0000"
+      "helmet": "2024-12-25 19:13:48 +0000",
+      "boots": "2024-12-26 17:11:15 +0000"
     },
     "done": false
   },
@@ -6696,6 +6700,12 @@
     },
     "done": true
   },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2024-12-26 17:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-26 16:52:14 +0000"
@@ -6759,6 +6769,12 @@
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-26 16:53:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-26 17:17:14 +0000"
     },
     "done": true
   },
@@ -6837,6 +6853,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 16:53:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-26 17:12:00 +0000"
     },
     "done": true
   },
