@@ -3086,3 +3086,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 16:52:02.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VallumraptorEntity['Gabby the Feeble'/244176, l='ServerLevel[Coito]', x=802.92, y=97.00, z=-472.08] died: Gabby the Feeble was slain by Darka0201
 [26Dec2024 16:52:08.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Father Luke the Toasty'/327058, l='ServerLevel[Coito]', x=862.03, y=103.00, z=-412.70] died: Father Luke the Toasty was slain by Tekkyo08
 [26Dec2024 16:52:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [He Wasn't So Strong]
+[26Dec2024 17:08:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [The Wind Darkening]
+[26Dec2024 17:08:56.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieClownEntity['Madam Morbius the Honest'/664419, l='ServerLevel[Coito]', x=960.60, y=81.00, z=-1654.40] died: Madam Morbius the Honest was slain by Darka0201
+[26Dec2024 17:08:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Life turned out to be a comedy]
+[26Dec2024 17:09:20.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Junior Summoner]
+[26Dec2024 17:09:27.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Fatty Demon]
+[26Dec2024 17:12:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [The Wind Darkening]

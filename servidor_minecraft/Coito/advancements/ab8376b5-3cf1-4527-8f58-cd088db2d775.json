@@ -171,6 +171,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-25 19:11:26 +0000",
       "minecraft:taiga": "2024-12-25 18:55:29 +0000",
+      "minecraft:frozen_river": "2024-12-26 17:03:52 +0000",
       "minecraft:beach": "2024-12-25 18:58:39 +0000",
       "minecraft:river": "2024-12-25 18:56:55 +0000",
       "minecraft:snowy_plains": "2024-12-25 18:03:32 +0000",
@@ -6051,6 +6052,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-26 16:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-26 16:50:44 +0000"
@@ -6108,6 +6115,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-26 16:56:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-26 16:59:53 +0000"
     },
     "done": true
   },
