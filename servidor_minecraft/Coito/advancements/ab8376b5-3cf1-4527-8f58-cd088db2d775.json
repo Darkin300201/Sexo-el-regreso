@@ -4075,6 +4075,7 @@
     "criteria": {
       "brewingstand": "2024-12-25 19:08:23 +0000",
       "grindstone": "2024-12-25 19:57:08 +0000",
+      "smithingtable": "2024-12-26 17:48:16 +0000",
       "blastfurnace": "2024-12-25 19:26:42 +0000"
     },
     "done": false
@@ -6391,6 +6392,12 @@
     },
     "done": true
   },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-26 17:54:30 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-26 17:08:56 +0000"
@@ -6454,6 +6461,12 @@
   "mcdw:recipes/axes/axe_encrusted_anchor": {
     "criteria": {
       "has_gold_block": "2024-12-26 17:45:01 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-26 17:54:50 +0000"
     },
     "done": true
   },
