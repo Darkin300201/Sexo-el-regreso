@@ -8933,15 +8933,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_warden_upgrade_smithing_template": "2024-12-27 02:43:18 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2024-12-27 02:40:08 +0000"
+      "has_echo_shard": "2024-12-27 02:35:34 +0000"
     },
     "done": true
   },
@@ -8957,9 +8951,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
-      "has_echo_shard": "2024-12-27 02:35:34 +0000"
+      "has_warden_carapace": "2024-12-27 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2024-12-27 02:43:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-27 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-27 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-27 02:58:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-27 02:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-27 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-27 03:10:02 +0000"
     },
     "done": true
   },
