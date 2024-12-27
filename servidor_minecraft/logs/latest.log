@@ -6881,3 +6881,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Dec2024 06:19:23.534] [Server thread/INFO] [tombstone/]: The player Zm0kes has successfully been saved
 [27Dec2024 06:19:25.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [The Most Useful Key]
 [27Dec2024 06:19:28.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Zm0kes to Tekkyo08]
+[27Dec2024 06:20:35.763] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[27Dec2024 06:20:35.765] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[27Dec2024 06:21:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Monster Hunter]
+[27Dec2024 06:21:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Deceived Hopes]
+[27Dec2024 06:22:01.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[27Dec2024 06:22:38.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Knowledge of Death]
+[27Dec2024 06:22:38.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Ambush]
+[27Dec2024 06:24:02.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Eye Spy]
+[27Dec2024 06:24:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement ['X' Marks the Spot]
+[27Dec2024 06:24:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Scarlet Temptation]
+[27Dec2024 06:26:50.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Zm0kes to Tekkyo08]
+[27Dec2024 06:29:39.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Zm0kes to Tekkyo08]
+[27Dec2024 06:31:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Zm0kes]
+[27Dec2024 06:32:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Barrel Booty]
+[27Dec2024 06:33:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [The Forgotten Story]
+[27Dec2024 06:37:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]

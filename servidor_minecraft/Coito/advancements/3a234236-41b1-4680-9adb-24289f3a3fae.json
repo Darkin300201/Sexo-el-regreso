@@ -9247,9 +9247,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-27 06:00:53 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/zinc_ingot": {
+    "criteria": {
+      "has_raw_zinc": "2024-12-27 06:30:03 +0000"
     },
     "done": true
   },
@@ -9265,6 +9277,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-27 05:39:00 +0000"
@@ -9274,6 +9298,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-27 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-27 06:30:05 +0000"
     },
     "done": true
   },
@@ -9295,15 +9325,63 @@
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_sugar": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2024-12-27 05:39:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-27 06:33:21 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/zinc_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_zinc": "2024-12-27 06:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-27 05:42:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 06:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-27 06:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-27 06:30:05 +0000"
     },
     "done": true
   },
@@ -9325,9 +9403,33 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-27 06:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-12-27 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 06:33:21 +0000"
     },
     "done": true
   },
