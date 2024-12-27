@@ -7657,6 +7657,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -7717,15 +7729,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -7744,6 +7774,12 @@
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -7789,6 +7825,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -7798,6 +7840,12 @@
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -7873,6 +7921,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -7927,9 +7981,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -7942,6 +8008,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -7969,6 +8041,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -7984,6 +8062,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
@@ -8023,6 +8107,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -8053,6 +8143,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 04:09:18 +0000"
@@ -8074,6 +8170,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-27 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:42:46 +0000"
     },
     "done": true
   },
