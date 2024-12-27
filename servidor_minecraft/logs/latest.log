@@ -3054,3 +3054,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 04:46:20.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=288, y=64, z=-2511} BlockPos{x=288, y=63, z=-2510}
 [27Dec2024 04:46:22.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=64, z=-2510} BlockPos{x=287, y=63, z=-2509}
 [27Dec2024 04:49:28.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=64, z=-2509} BlockPos{x=298, y=63, z=-2508}
+[27Dec2024 05:04:58.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Major Fishpigdav the Not Very Nice'/1996590, l='ServerLevel[Coito]', x=292.67, y=63.00, z=-2456.17] died: Major Fishpigdav the Not Very Nice was slain by Darka0201

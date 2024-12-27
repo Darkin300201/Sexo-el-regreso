@@ -9119,6 +9119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-27 04:55:13 +0000"
+    },
+    "done": true
+  },
   "beachparty:lounge_chair": {
     "criteria": {
       "has_palm_planks": "2024-12-27 04:02:33 +0000"
@@ -9128,6 +9134,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-27 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 04:55:13 +0000"
     },
     "done": true
   },
