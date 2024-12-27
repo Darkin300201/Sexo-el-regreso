@@ -6137,3 +6137,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Dec2024 05:20:40.369] [Server thread/INFO] [Jade/]: Syncing config to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
 [27Dec2024 05:20:40.536] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
 [27Dec2024 05:22:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Fatty Demon]
+[27Dec2024 05:39:09.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [First Trade]
+[27Dec2024 05:39:09.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [What a Deal!]
+[27Dec2024 05:39:09.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [How We're Going To Pay Last Years Rent]
