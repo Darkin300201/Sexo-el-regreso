@@ -3037,3 +3037,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 02:34:10.452] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Tekkyo08.
 [27Dec2024 02:34:10.453] [Server thread/INFO] [Jade/]: Syncing config to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
 [27Dec2024 02:34:10.586] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:38:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has completed the challenge [It Spreads]
+[27Dec2024 02:40:05.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved wrongly!
+[27Dec2024 02:40:07.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Phantom Thief]
+[27Dec2024 02:40:07.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [It Spreads]
+[27Dec2024 02:56:49.105] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Dec2024 02:56:49.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Dec2024 02:56:49.107] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Dec2024 02:56:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Below the Bedrock]
+[27Dec2024 02:56:50.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[27Dec2024 02:56:50.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved too quickly! 0.5804041104406,69.87850767900736,0.5642489585666226
+[27Dec2024 02:56:57.104] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[27Dec2024 02:56:58.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 moved too quickly! 9.328689208977117,-65.79999995231628,-9.328689208977266
+[27Dec2024 02:57:48.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
