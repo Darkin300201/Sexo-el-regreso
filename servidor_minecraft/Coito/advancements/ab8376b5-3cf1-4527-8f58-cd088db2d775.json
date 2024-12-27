@@ -8245,9 +8245,21 @@
     },
     "done": true
   },
+  "allomancy:recipes/misc/electrum_pattern": {
+    "criteria": {
+      "has_electrum_flakes": "2024-12-27 06:01:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-27 05:55:39 +0000"
     },
     "done": true
   },
