@@ -9005,6 +9005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-27 05:09:02 +0000"
+    },
+    "done": true
+  },
   "beachparty:chair": {
     "criteria": {
       "has_palm_planks": "2024-12-27 04:02:33 +0000"
@@ -9023,6 +9029,12 @@
     },
     "done": true
   },
+  "allomancy:recipes/misc/tin_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_tin": "2024-12-27 05:09:42 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_planks": {
     "criteria": {
       "has_palm_log": "2024-12-27 03:59:16 +0000"
@@ -9032,6 +9044,12 @@
   "beachparty:palm_sign": {
     "criteria": {
       "has_palm_planks": "2024-12-27 04:02:33 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/lead_ingot": {
+    "criteria": {
+      "has_raw_lead": "2024-12-27 05:12:49 +0000"
     },
     "done": true
   },
@@ -9074,6 +9092,12 @@
   "beachparty:palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2024-12-27 04:02:33 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/tin_ingot": {
+    "criteria": {
+      "has_raw_tin": "2024-12-27 05:09:42 +0000"
     },
     "done": true
   },
@@ -9152,6 +9176,12 @@
   "beachparty:tiki_chair": {
     "criteria": {
       "has_palm_planks": "2024-12-27 04:02:33 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/lead_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_lead": "2024-12-27 05:12:49 +0000"
     },
     "done": true
   },
