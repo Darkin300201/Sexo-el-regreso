@@ -9295,6 +9295,12 @@
     },
     "done": true
   },
+  "allomancy:recipes/misc/cadmium_ingot": {
+    "criteria": {
+      "has_raw_cadmium": "2024-12-27 06:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-27 05:39:00 +0000"
@@ -9364,6 +9370,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-27 05:42:15 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/cadmium_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_cadmium": "2024-12-27 06:41:19 +0000"
     },
     "done": true
   },

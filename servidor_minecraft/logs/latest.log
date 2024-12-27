@@ -6897,3 +6897,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Dec2024 06:32:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Barrel Booty]
 [27Dec2024 06:33:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [The Forgotten Story]
 [27Dec2024 06:37:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
+[27Dec2024 06:43:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes was obliterated by a sonically-charged shriek
+[27Dec2024 06:43:05.720] [Server thread/WARN] [tombstone/]: The drop event of the player Zm0kes was canceled by another mod
+[27Dec2024 06:43:05.730] [Server thread/INFO] [tombstone/]: The player Zm0kes has successfully been saved
+[27Dec2024 06:43:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Zm0kes to Tekkyo08]
+[27Dec2024 06:45:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes was obliterated by a sonically-charged shriek
+[27Dec2024 06:45:13.124] [Server thread/WARN] [tombstone/]: The drop event of the player Zm0kes was canceled by another mod
+[27Dec2024 06:45:13.142] [Server thread/INFO] [tombstone/]: The player Zm0kes has successfully been saved
+[27Dec2024 06:45:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Zm0kes to Tekkyo08]
+[27Dec2024 06:48:13.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zm0kes has made the advancement [Master of Silence]
