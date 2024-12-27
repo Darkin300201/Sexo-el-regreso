@@ -3040,3 +3040,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 04:00:52.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=63, z=-2535} BlockPos{x=394, y=63, z=-2528}
 [27Dec2024 04:00:52.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=394, y=63, z=-2526} BlockPos{x=394, y=63, z=-2525}
 [27Dec2024 04:00:57.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=63, z=-2516} BlockPos{x=390, y=63, z=-2516}
+[27Dec2024 04:10:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
