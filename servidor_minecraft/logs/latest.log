@@ -3005,3 +3005,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 02:23:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [A Metropolis of Restless Souls]
 [27Dec2024 02:23:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [The Forgotten Story]
 [27Dec2024 02:23:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Sneak 100]
+[27Dec2024 02:31:44.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 lost connection: Disconnected
+[27Dec2024 02:31:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 left the game
+[27Dec2024 02:31:51.976] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Tekkyo08 is 3a234236-41b1-4680-9adb-24289f3a3fae
+[27Dec2024 02:31:54.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tekkyo08[/100.122.190.94:55884] logged in with entity id 294690 at (-95.56594951580553, -43.0, -2547.939938877101)
+[27Dec2024 02:31:54.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 joined the game
+[27Dec2024 02:31:54.737] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Tekkyo08.
+[27Dec2024 02:31:54.741] [Server thread/INFO] [Jade/]: Syncing config to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:31:54.920] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:33:04.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 lost connection: Disconnected
+[27Dec2024 02:33:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 left the game
+[27Dec2024 02:33:13.050] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Tekkyo08 is 3a234236-41b1-4680-9adb-24289f3a3fae
+[27Dec2024 02:33:15.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tekkyo08[/100.122.190.94:55909] logged in with entity id 323375 at (-95.56594951580553, -43.0, -2547.939938877101)
+[27Dec2024 02:33:15.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 joined the game
+[27Dec2024 02:33:15.805] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Tekkyo08.
+[27Dec2024 02:33:15.806] [Server thread/INFO] [Jade/]: Syncing config to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:33:16.103] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:33:30.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darka0201 lost connection: Disconnected
+[27Dec2024 02:33:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 left the game
+[27Dec2024 02:33:52.378] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darka0201 is ab8376b5-3cf1-4527-8f58-cd088db2d775
+[27Dec2024 02:33:54.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 lost connection: Timed out
+[27Dec2024 02:33:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 left the game
+[27Dec2024 02:33:55.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darka0201[/100.121.228.80:51409] logged in with entity id 330319 at (-93.90861100384619, -37.0, -2545.0177888263615)
+[27Dec2024 02:33:55.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 joined the game
+[27Dec2024 02:33:55.089] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Darka0201.
+[27Dec2024 02:33:55.090] [Server thread/INFO] [Jade/]: Syncing config to Darka0201 (ab8376b5-3cf1-4527-8f58-cd088db2d775)
+[27Dec2024 02:33:55.364] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darka0201 (ab8376b5-3cf1-4527-8f58-cd088db2d775)
+[27Dec2024 02:34:07.821] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Tekkyo08 is 3a234236-41b1-4680-9adb-24289f3a3fae
+[27Dec2024 02:34:10.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tekkyo08[/100.122.190.94:55921] logged in with entity id 335155 at (-95.56594951580553, -43.0, -2547.939938877101)
+[27Dec2024 02:34:10.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 joined the game
+[27Dec2024 02:34:10.452] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Tekkyo08.
+[27Dec2024 02:34:10.453] [Server thread/INFO] [Jade/]: Syncing config to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)
+[27Dec2024 02:34:10.586] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Tekkyo08 (3a234236-41b1-4680-9adb-24289f3a3fae)

@@ -186,6 +186,7 @@
       "minecraft:ocean": "2024-12-26 18:43:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 19:09:19 +0000",
       "minecraft:snowy_beach": "2024-12-26 16:58:04 +0000",
+      "minecraft:deep_dark": "2024-12-27 02:23:44 +0000",
       "minecraft:plains": "2024-12-26 17:33:15 +0000"
     },
     "done": false
@@ -8892,6 +8893,42 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2024-12-26 19:50:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-27 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:the_forgotten_story": {
+    "criteria": {
+      "the_forgotten_story": "2024-12-27 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-27 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-27 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2024-12-27 02:28:31 +0000"
     },
     "done": true
   },
