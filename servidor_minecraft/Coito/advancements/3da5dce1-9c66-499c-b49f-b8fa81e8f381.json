@@ -1564,6 +1564,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 06:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-27 06:17:07 +0000"
@@ -2530,6 +2536,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-27 06:48:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_redstone": "2024-12-27 06:34:14 +0000"
@@ -2545,6 +2557,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_redstone": "2024-12-27 06:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-27 06:56:51 +0000"
     },
     "done": true
   },
