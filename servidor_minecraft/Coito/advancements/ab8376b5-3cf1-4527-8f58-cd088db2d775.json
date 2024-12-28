@@ -8453,6 +8453,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-28 21:09:50 +0000",
       "minecraft:nether_wastes": "2024-12-28 19:50:45 +0000"
     },
     "done": false
@@ -8808,6 +8809,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:raw_flamite_recipes_activatorer": {
+    "criteria": {
+      "raw_flamite_recipes_activatorer_0": "2024-12-28 21:08:38 +0000"
     },
     "done": true
   },
