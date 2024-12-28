@@ -8197,21 +8197,9 @@
     },
     "done": true
   },
-  "beachparty:palm_pressure_plate": {
+  "gnumus:fatty_demon": {
     "criteria": {
-      "has_palm_planks": "2024-12-27 06:18:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-27 06:24:51 +0000"
-    },
-    "done": true
-  },
-  "beachparty:chair": {
-    "criteria": {
-      "has_palm_planks": "2024-12-27 06:18:44 +0000"
+      "fatty_demon": "2024-12-27 05:22:04 +0000"
     },
     "done": true
   },
@@ -8221,27 +8209,9 @@
     },
     "done": true
   },
-  "beachparty:palm_beam": {
-    "criteria": {
-      "has_palm_log": "2024-12-27 06:18:59 +0000"
-    },
-    "done": true
-  },
-  "gnumus:fatty_demon": {
-    "criteria": {
-      "fatty_demon": "2024-12-27 05:22:04 +0000"
-    },
-    "done": true
-  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2024-12-27 05:38:31 +0000"
-    },
-    "done": true
-  },
-  "beachparty:palm_planks": {
-    "criteria": {
-      "has_palm_log": "2024-12-27 06:18:59 +0000"
     },
     "done": true
   },
@@ -8257,21 +8227,9 @@
     },
     "done": true
   },
-  "allomancy:recipes/misc/cadmium_ingot": {
-    "criteria": {
-      "has_raw_cadmium": "2024-12-27 06:33:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-27 05:38:31 +0000"
-    },
-    "done": true
-  },
-  "beachparty:palm_sign": {
-    "criteria": {
-      "has_palm_planks": "2024-12-27 06:18:44 +0000"
     },
     "done": true
   },
@@ -8281,15 +8239,69 @@
     },
     "done": true
   },
-  "beachparty:hammock": {
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-27 05:55:39 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/electrum_pattern": {
+    "criteria": {
+      "has_electrum_flakes": "2024-12-27 06:01:34 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_pressure_plate": {
     "criteria": {
       "has_palm_planks": "2024-12-27 06:18:44 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+  "beachparty:chair": {
     "criteria": {
-      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
+      "has_palm_planks": "2024-12-27 06:18:44 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2024-12-27 06:18:44 +0000"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_palm_planks": "2024-12-27 06:18:44 +0000"
     },
     "done": true
   },
@@ -8311,39 +8323,9 @@
     },
     "done": true
   },
-  "allomancy:recipes/misc/electrum_pattern": {
-    "criteria": {
-      "has_electrum_flakes": "2024-12-27 06:01:34 +0000"
-    },
-    "done": true
-  },
-  "allomancy:recipes/misc/cadmium_ingot_from_blasting": {
-    "criteria": {
-      "has_raw_cadmium": "2024-12-27 06:33:00 +0000"
-    },
-    "done": true
-  },
   "beachparty:palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2024-12-27 06:18:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2024-12-27 05:55:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-27 06:23:51 +0000"
     },
     "done": true
   },
@@ -8371,12 +8353,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
-    },
-    "done": true
-  },
   "beachparty:palm_button": {
     "criteria": {
       "has_palm_planks": "2024-12-27 06:18:44 +0000"
@@ -8386,12 +8362,6 @@
   "beachparty:lounge_chair": {
     "criteria": {
       "has_palm_planks": "2024-12-27 06:18:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
     },
     "done": true
   },
@@ -8407,12 +8377,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-27 05:38:31 +0000"
-    },
-    "done": true
-  },
   "beachparty:palm_fence_gate": {
     "criteria": {
       "has_palm_planks": "2024-12-27 06:18:44 +0000"
@@ -8425,9 +8389,45 @@
     },
     "done": true
   },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_palm_log": "2024-12-27 06:18:59 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_palm_log": "2024-12-27 06:18:59 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_wood": {
     "criteria": {
       "has_palm_wood": "2024-12-27 06:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-27 06:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-27 06:24:51 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/cadmium_ingot": {
+    "criteria": {
+      "has_raw_cadmium": "2024-12-27 06:33:00 +0000"
+    },
+    "done": true
+  },
+  "allomancy:recipes/misc/cadmium_ingot_from_blasting": {
+    "criteria": {
+      "has_raw_cadmium": "2024-12-27 06:33:00 +0000"
     },
     "done": true
   },

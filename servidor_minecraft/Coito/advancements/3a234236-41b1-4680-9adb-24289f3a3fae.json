@@ -9265,6 +9265,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-27 07:16:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-27 05:42:15 +0000"
@@ -9280,6 +9286,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-27 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2024-12-27 07:08:39 +0000"
     },
     "done": true
   },
@@ -9379,6 +9391,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-27 07:16:09 +0000"
+    },
+    "done": true
+  },
   "allomancy:recipes/misc/cadmium_ingot_from_blasting": {
     "criteria": {
       "has_raw_cadmium": "2024-12-27 06:41:19 +0000"
@@ -9406,6 +9424,18 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-27 05:51:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-27 07:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-27 07:16:09 +0000"
     },
     "done": true
   },
@@ -9454,6 +9484,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-27 05:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-27 07:16:09 +0000"
     },
     "done": true
   },
