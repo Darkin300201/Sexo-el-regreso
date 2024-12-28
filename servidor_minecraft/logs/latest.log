@@ -5429,3 +5429,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 20:53:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [GOLD!!!]
 [28Dec2024 20:55:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Oh Shiny]
 [28Dec2024 20:56:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [GOLD!!!]
+[28Dec2024 20:56:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[28Dec2024 21:01:26.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=5, z=-505} BlockPos{x=-141, y=6, z=-505}
+[28Dec2024 21:01:26.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=5, z=-505} BlockPos{x=-141, y=6, z=-505}
+[28Dec2024 21:02:05.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=6, z=-504} BlockPos{x=-114, y=5, z=-503}
+[28Dec2024 21:03:00.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Hidden in the Depths]

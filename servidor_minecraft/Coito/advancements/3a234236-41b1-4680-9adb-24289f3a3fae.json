@@ -9508,7 +9508,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-27 07:16:18 +0000"
+      "minecraft:nether_wastes": "2024-12-27 07:16:18 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 20:59:05 +0000"
     },
     "done": false
   },
@@ -9578,6 +9579,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:gold_advancement": {
+    "criteria": {
+      "gold_advancement_0": "2024-12-28 20:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2024-12-28 20:17:49 +0000"
@@ -9635,6 +9648,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-28 20:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
     },
     "done": true
   },
@@ -9710,6 +9729,12 @@
     },
     "done": true
   },
+  "piglet_structures:raw_flamite_recipes_activatorer": {
+    "criteria": {
+      "raw_flamite_recipes_activatorer_0": "2024-12-28 20:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
@@ -9719,6 +9744,12 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2024-12-28 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
     },
     "done": true
   },
