@@ -5473,3 +5473,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 21:20:30.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
 [28Dec2024 21:20:49.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4561ms or 91 ticks behind
 [28Dec2024 21:20:59.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[28Dec2024 21:28:11.798] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[28Dec2024 21:28:11.800] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[28Dec2024 21:41:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has completed the challenge [Turtle-ology Majors Be Like]
+[28Dec2024 21:41:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has completed the challenge [Dawn of Creation]
+[28Dec2024 21:44:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
