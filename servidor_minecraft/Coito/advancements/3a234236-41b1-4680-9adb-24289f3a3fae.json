@@ -9518,6 +9518,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
+    "criteria": {
+      "spiked_turtle_shell": "2024-12-28 20:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
@@ -9563,6 +9569,12 @@
   "netherdungeons:recipes/crafting/polished_netherrack": {
     "criteria": {
       "has_items": "2024-12-28 20:15:44 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/artifact": {
+    "criteria": {
+      "sword": "2024-12-28 20:44:43 +0000"
     },
     "done": true
   },
@@ -9629,6 +9641,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-28 20:39:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-28 20:51:29 +0000"
     },
     "done": true
   },

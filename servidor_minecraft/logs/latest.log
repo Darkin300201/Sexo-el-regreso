@@ -5409,3 +5409,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 20:44:24.470] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
 [28Dec2024 20:44:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Turtle-ology Majors Be Like]
 [28Dec2024 20:44:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has completed the challenge [Dawn of Creation]
+[28Dec2024 20:46:16.813] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[28Dec2024 20:46:44.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[28Dec2024 20:47:44.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/1591858, l='ServerLevel[Coito]', x=-299.32, y=74.04, z=-402.65] died: Withering Archer was slain by Darka0201
+[28Dec2024 20:48:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[28Dec2024 20:48:51.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Duke Gergrokat the Son of Herobrine'/1617982, l='ServerLevel[Coito]', x=-332.72, y=91.50, z=-380.32] died: Duke Gergrokat the Son of Herobrine was shot by Darka0201
+[28Dec2024 20:51:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Nightmare Fuel]
+[28Dec2024 20:52:30.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=23, z=-437} BlockPos{x=-206, y=22, z=-436}
+[28Dec2024 20:52:48.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:48.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=18, z=-440} BlockPos{x=-206, y=16, z=-444}
+[28Dec2024 20:52:55.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=6, z=-456} BlockPos{x=-206, y=4, z=-454}
+[28Dec2024 20:53:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [GOLD!!!]
+[28Dec2024 20:55:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Oh Shiny]
+[28Dec2024 20:56:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [GOLD!!!]
