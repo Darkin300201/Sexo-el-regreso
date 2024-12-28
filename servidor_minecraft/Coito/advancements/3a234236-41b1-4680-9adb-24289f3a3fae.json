@@ -181,10 +181,12 @@
       "minecraft:snowy_plains": "2024-12-25 18:27:44 +0000",
       "minecraft:stony_shore": "2024-12-25 19:48:50 +0000",
       "minecraft:snowy_taiga": "2024-12-25 18:27:38 +0000",
+      "minecraft:grove": "2024-12-28 21:50:58 +0000",
       "minecraft:cold_ocean": "2024-12-25 19:49:59 +0000",
       "minecraft:lush_caves": "2024-12-26 19:11:32 +0000",
       "minecraft:deep_cold_ocean": "2024-12-26 19:00:38 +0000",
       "minecraft:frozen_ocean": "2024-12-26 18:52:38 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-28 21:59:09 +0000",
       "minecraft:ocean": "2024-12-26 18:43:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 19:09:19 +0000",
       "minecraft:snowy_beach": "2024-12-26 16:58:04 +0000",
@@ -9519,6 +9521,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2024-12-28 21:54:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
@@ -9597,6 +9611,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
@@ -9615,9 +9635,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-28 21:51:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-28 22:09:55 +0000"
     },
     "done": true
   },
@@ -9639,6 +9671,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-28 20:59:05 +0000"
@@ -9651,15 +9689,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-28 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-28 21:52:50 +0000"
+    },
+    "done": true
+  },
   "piglet_structures:gold_advancement": {
     "criteria": {
       "gold_advancement_0": "2024-12-28 20:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
     },
     "done": true
   },
@@ -9708,6 +9770,18 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-28 22:04:41 +0000"
     },
     "done": true
   },
@@ -9765,6 +9839,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-28 21:51:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-28 20:39:57 +0000"
@@ -9774,6 +9854,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:51:42 +0000"
     },
     "done": true
   },
@@ -9813,9 +9899,27 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-28 21:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-28 20:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2024-12-28 22:07:14 +0000"
     },
     "done": true
   },
@@ -9849,6 +9953,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-28 22:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-28 20:30:19 +0000"
@@ -9879,9 +9989,33 @@
     },
     "done": true
   },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2024-12-28 22:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-28 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
     },
     "done": true
   },
@@ -9891,9 +10025,27 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2024-12-28 22:12:38 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2024-12-28 22:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-28 21:51:09 +0000"
     },
     "done": true
   },
@@ -9978,6 +10130,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-28 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 22:07:12 +0000"
     },
     "done": true
   },
