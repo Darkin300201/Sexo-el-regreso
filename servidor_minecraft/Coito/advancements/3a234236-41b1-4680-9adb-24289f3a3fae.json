@@ -174,6 +174,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-25 19:09:34 +0000",
+      "minecraft:mushroom_fields": "2024-12-28 22:36:28 +0000",
       "minecraft:taiga": "2024-12-25 19:01:05 +0000",
       "minecraft:frozen_river": "2024-12-26 16:58:12 +0000",
       "minecraft:beach": "2024-12-26 17:34:34 +0000",
@@ -9689,6 +9690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-28 22:04:41 +0000"
@@ -9719,6 +9726,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_base": "2024-12-28 22:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-28 21:51:42 +0000"
@@ -9728,6 +9741,18 @@
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-28 22:26:51 +0000"
     },
     "done": true
   },
@@ -9839,6 +9864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-28 21:51:09 +0000"
@@ -9905,6 +9936,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-28 22:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-28 20:26:15 +0000"
@@ -9953,9 +9990,21 @@
     },
     "done": true
   },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2024-12-28 22:20:07 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2024-12-28 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-28 22:26:51 +0000"
     },
     "done": true
   },
@@ -10025,6 +10074,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-28 22:34:10 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/sea_stew": {
     "criteria": {
       "has_item": "2024-12-28 22:12:38 +0000"
@@ -10040,6 +10095,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
     },
     "done": true
   },
@@ -10133,6 +10194,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-12-28 22:18:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-28 22:04:41 +0000"
@@ -10148,6 +10215,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
     },
     "done": true
   },

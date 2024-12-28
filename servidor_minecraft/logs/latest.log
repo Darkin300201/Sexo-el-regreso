@@ -5557,3 +5557,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 22:15:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
 [28Dec2024 22:15:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [A Lighthouse in Your Eyes]
 [28Dec2024 22:16:14.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3641896, l='ServerLevel[Coito]', x=-1492.50, y=43.00, z=-2652.50]
+[28Dec2024 22:17:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Voluntary Exile]
+[28Dec2024 22:18:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Greed]
+[28Dec2024 22:20:07.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [It Comes Back, Right?]
+[28Dec2024 22:34:06.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieFishermanEntity['Isabelle the Pig Thief'/4047231, l='ServerLevel[Coito]', x=-1441.41, y=63.00, z=-2650.70] died: Isabelle the Pig Thief was slain by Tekkyo08
+[28Dec2024 22:34:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [No Longer Short-Staffed]
+[28Dec2024 22:34:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Quite the Walking Stick]
+[28Dec2024 22:36:10.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[28Dec2024 22:36:28.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[28Dec2024 22:36:46.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
+[28Dec2024 22:37:17.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[28Dec2024 22:37:34.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Maw['Darktouched Maw'/4128913, l='ServerLevel[Coito]', x=-1690.81, y=63.00, z=-2529.68] died: Darktouched Maw was slain by Tekkyo08
+[28Dec2024 22:37:35.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
