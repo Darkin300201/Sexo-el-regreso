@@ -5586,3 +5586,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 22:43:35.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [28Dec2024 22:43:55.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [28Dec2024 22:44:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[28Dec2024 22:50:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Darka0201 to Tekkyo08]
+[28Dec2024 22:50:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tekkyo08> a
+[28Dec2024 22:51:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Set own game mode to Spectator Mode]
+[28Dec2024 22:51:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Set own game mode to Creative Mode]
+[28Dec2024 22:51:39.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Set own game mode to Survival Mode]
+[28Dec2024 22:53:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Smitty WerbenJagerManJensen]
+[28Dec2024 22:55:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Smitty WerbenJagerManJensen]
+[28Dec2024 22:59:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [Heart Of The Storm]
+[28Dec2024 23:03:18.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has reached the goal [Heart Of The Storm]
+[28Dec2024 23:07:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has reached the goal [This Belongs in a Museum]

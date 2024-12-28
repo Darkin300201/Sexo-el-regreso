@@ -3846,6 +3846,7 @@
       "minecraft:spider": "2024-12-25 19:24:24 +0000",
       "minecraft:piglin_brute": "2024-12-28 20:24:50 +0000",
       "minecraft:creeper": "2024-12-26 19:40:04 +0000",
+      "minecraft:evoker": "2024-12-28 22:49:12 +0000",
       "minecraft:phantom": "2024-12-26 16:51:37 +0000",
       "minecraft:zombified_piglin": "2024-12-28 20:33:24 +0000",
       "minecraft:witch": "2024-12-26 16:53:15 +0000",
@@ -4093,6 +4094,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2024-12-28 22:50:44 +0000",
       "brewingstand": "2024-12-25 19:08:23 +0000",
       "grindstone": "2024-12-25 19:57:08 +0000",
       "smithingtable": "2024-12-26 17:48:16 +0000",
@@ -8586,6 +8588,12 @@
     },
     "done": true
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-28 22:17:52 +0000"
@@ -8916,6 +8924,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-28 22:55:05 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_frozen_key": {
     "criteria": {
       "frozen_key": "2024-12-28 22:07:20 +0000"
@@ -8976,6 +8990,18 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-28 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-28 22:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-28 19:55:23 +0000"
@@ -9006,9 +9032,21 @@
     },
     "done": true
   },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
     },
     "done": true
   },
@@ -9069,6 +9107,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
