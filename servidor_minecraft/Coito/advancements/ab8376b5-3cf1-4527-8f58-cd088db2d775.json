@@ -3841,6 +3841,7 @@
       "minecraft:creeper": "2024-12-26 19:40:04 +0000",
       "minecraft:phantom": "2024-12-26 16:51:37 +0000",
       "minecraft:witch": "2024-12-26 16:53:15 +0000",
+      "minecraft:wither_skeleton": "2024-12-28 19:46:58 +0000",
       "minecraft:husk": "2024-12-25 20:47:09 +0000",
       "minecraft:cave_spider": "2024-12-25 19:32:51 +0000",
       "minecraft:stray": "2024-12-25 19:33:35 +0000",
@@ -8428,6 +8429,30 @@
   "allomancy:recipes/misc/cadmium_ingot_from_blasting": {
     "criteria": {
       "has_raw_cadmium": "2024-12-27 06:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-28 19:50:45 +0000"
+    },
+    "done": false
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-28 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-28 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-28 19:50:44 +0000"
     },
     "done": true
   },
