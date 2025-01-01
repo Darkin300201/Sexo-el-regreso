@@ -3010,3 +3010,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 23:09:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 was shot by Darka0201
 [01Jan2025 23:09:28.451] [Server thread/INFO] [tombstone/]: The player Tekkyo08 has successfully been saved
 [01Jan2025 23:09:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Funeral Theft]
+[01Jan2025 23:36:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Refined Storage]

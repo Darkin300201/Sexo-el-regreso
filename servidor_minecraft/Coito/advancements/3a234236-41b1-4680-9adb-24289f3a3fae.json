@@ -10285,5 +10285,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-01 23:33:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
