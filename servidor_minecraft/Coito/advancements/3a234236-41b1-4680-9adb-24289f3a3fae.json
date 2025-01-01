@@ -9517,23 +9517,281 @@
     },
     "done": false
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-28 20:00:06 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2024-12-28 20:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 20:15:44 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:ashed_bone_recipes_activatorer": {
+    "criteria": {
+      "ashed_bone_recipes_activatorer_0": "2024-12-28 20:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-28 20:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 20:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 20:26:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_nameless_blade": {
     "criteria": {
       "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
-      "has_salmon": "2024-12-28 21:51:42 +0000"
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "charm_collector_2": "2024-12-28 21:54:21 +0000"
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-28 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 20:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 20:30:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-28 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-28 20:39:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
+    "criteria": {
+      "spiked_turtle_shell": "2024-12-28 20:44:43 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/artifact": {
+    "criteria": {
+      "sword": "2024-12-28 20:44:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-28 20:51:29 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:gold_advancement": {
+    "criteria": {
+      "gold_advancement_0": "2024-12-28 20:53:44 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:raw_flamite_recipes_activatorer": {
+    "criteria": {
+      "raw_flamite_recipes_activatorer_0": "2024-12-28 20:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 20:59:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-28 21:06:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
@@ -9544,12 +9802,6 @@
   "piglet_structures:glass_recipes_activatorer": {
     "criteria": {
       "glass_recipes_activatorer_0": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/spiked_turtle_shell": {
-    "criteria": {
-      "spiked_turtle_shell": "2024-12-28 20:44:43 +0000"
     },
     "done": true
   },
@@ -9565,12 +9817,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
@@ -9583,57 +9829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-28 20:26:15 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/spinefish": {
-    "criteria": {
-      "has_item": "2024-12-28 22:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-28 20:00:06 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2024-12-28 21:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
     },
     "done": true
   },
@@ -9643,39 +9841,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2024-12-28 21:51:35 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/sharp_bones": {
-    "criteria": {
-      "has_item": "2024-12-28 22:37:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2024-12-28 22:09:55 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/polished_netherrack": {
-    "criteria": {
-      "has_items": "2024-12-28 20:15:44 +0000"
-    },
-    "done": true
-  },
-  "apotheotic_additions:affix/artifact": {
-    "criteria": {
-      "sword": "2024-12-28 20:44:43 +0000"
     },
     "done": true
   },
@@ -9685,39 +9853,9 @@
     },
     "done": true
   },
-  "aquamirae:recipes/esca": {
-    "criteria": {
-      "has_item": "2024-12-28 21:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-28 20:59:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-12-28 22:34:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2024-12-28 22:04:41 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_esca": {
-    "criteria": {
-      "esca": "2024-12-28 21:59:34 +0000"
     },
     "done": true
   },
@@ -9727,75 +9865,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2024-12-28 21:52:50 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:gold_advancement": {
-    "criteria": {
-      "gold_advancement_0": "2024-12-28 20:53:44 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/glaives/spear_venom_glaive": {
-    "criteria": {
-      "has_base": "2024-12-28 22:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-28 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:17:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-28 22:34:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2024-12-28 22:26:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-12-28 21:42:36 +0000"
     },
     "done": true
   },
@@ -9811,105 +9889,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-28 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2024-12-28 22:04:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
-    "criteria": {
-      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:17:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-12-28 21:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:17:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-12-28 20:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2024-12-28 20:28:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-28 20:15:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-28 20:59:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2024-12-28 22:34:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-28 21:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-28 20:39:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-28 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed": "2024-12-28 20:51:29 +0000"
     },
     "done": true
   },
@@ -9937,117 +9919,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:17:49 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2024-12-28 21:59:09 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_artificer": {
-    "criteria": {
-      "requirement": "2024-12-28 22:34:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-28 20:26:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag_skull": {
-    "criteria": {
-      "skull": "2024-12-28 22:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-28 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_frozen_key": {
-    "criteria": {
-      "frozen_key": "2024-12-28 22:07:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:17:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
     },
     "done": true
   },
-  "aquamirae:recipes/elodea": {
-    "criteria": {
-      "has_item": "2024-12-28 22:48:17 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_anglers_fang": {
-    "criteria": {
-      "anglers_fang": "2024-12-28 22:38:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-28 20:30:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:ashed_bone_recipes_activatorer": {
-    "criteria": {
-      "ashed_bone_recipes_activatorer_0": "2024-12-28 20:17:02 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/anglers_fang": {
-    "criteria": {
-      "has_item": "2024-12-28 22:38:34 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:mjolnir": {
-    "criteria": {
-      "requirement": "2024-12-28 22:20:07 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/pirate_pouch": {
-    "criteria": {
-      "has_item": "2024-12-28 22:05:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-28 22:26:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-12-28 20:30:19 +0000"
     },
     "done": true
   },
@@ -10069,39 +9949,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper": {
-    "criteria": {
-      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/oxygen_tank": {
-    "criteria": {
-      "has_item": "2024-12-28 22:07:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-28 22:06:58 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/fin": {
-    "criteria": {
-      "has_item": "2024-12-28 21:59:34 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-28 21:51:42 +0000"
     },
     "done": true
   },
@@ -10111,87 +9961,15 @@
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_rune_of_the_storm": {
-    "criteria": {
-      "rune_of_the_storm": "2024-12-28 23:03:18 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2024-12-28 22:34:10 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/sea_stew": {
-    "criteria": {
-      "has_item": "2024-12-28 22:12:38 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/ship_graveyard_echo": {
-    "criteria": {
-      "has_item": "2024-12-28 22:07:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
-    "criteria": {
-      "has_beef": "2024-12-28 22:34:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-28 21:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2024-12-28 21:35:05 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2024-12-28 21:06:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:raw_flamite_recipes_activatorer": {
-    "criteria": {
-      "raw_flamite_recipes_activatorer_0": "2024-12-28 20:57:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
     },
     "done": true
   },
@@ -10207,39 +9985,123 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
-      "sword": "2024-12-28 20:34:36 +0000"
+      "has_log": "2024-12-28 21:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
-      "has_basalt": "2024-12-28 20:59:05 +0000"
+      "has_logs": "2024-12-28 21:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_exposed_copper": "2024-12-28 20:19:17 +0000"
+      "crying_obsidian": "2024-12-28 21:51:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+      "has_obsidian": "2024-12-28 21:51:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+      "naga": "2024-12-28 21:51:35 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_dagger_of_greed": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "dagger_of_greed": "2024-12-28 22:18:30 +0000"
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-28 21:52:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2024-12-28 21:54:21 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-28 21:59:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-28 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-28 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-28 22:04:41 +0000"
     },
     "done": true
   },
@@ -10249,21 +10111,117 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-28 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-28 22:06:58 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/three_bolt_helmet": {
     "criteria": {
       "has_item": "2024-12-28 22:07:12 +0000"
     },
     "done": true
   },
-  "aquamirae:recipes/astral_dust": {
+  "aquamirae:recipes/oxygen_tank": {
     "criteria": {
-      "has_item": "2024-12-28 23:03:15 +0000"
+      "has_item": "2024-12-28 22:07:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+      "has_item": "2024-12-28 22:07:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2024-12-28 22:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-28 22:09:55 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2024-12-28 22:12:38 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-12-28 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2024-12-28 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-28 22:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-28 22:26:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_base": "2024-12-28 22:26:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-28 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-28 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-28 22:34:14 +0000"
     },
     "done": true
   },
@@ -10273,9 +10231,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "aquamirae:recipes/sharp_bones": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:27:11 +0000"
+      "has_item": "2024-12-28 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-12-28 22:38:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-12-28 22:38:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-12-28 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/elodea": {
+    "criteria": {
+      "has_item": "2024-12-28 22:48:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-28 22:53:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2024-12-28 23:03:15 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2024-12-28 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-28 23:08:48 +0000"
     },
     "done": true
   },

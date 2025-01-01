@@ -5804,6 +5804,7 @@
   },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
+      "pants": "2024-12-28 23:07:48 +0000",
       "tunic": "2024-12-25 20:05:30 +0000"
     },
     "done": false
@@ -8443,33 +8444,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "bygonenether:root": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+      "entered_nether": "2024-12-28 19:50:44 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/swords/sword_nameless_blade": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+      "entered_nether": "2024-12-28 19:50:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:glass_recipes_activatorer": {
-    "criteria": {
-      "glass_recipes_activatorer_0": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+      "entered_nether": "2024-12-28 19:50:44 +0000"
     },
     "done": true
   },
@@ -8480,189 +8469,21 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/spiked_turtle_shell": {
-    "criteria": {
-      "spiked_turtle_shell": "2024-12-28 21:41:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-28 21:03:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:ancient_bricks_recipes_activatorer": {
-    "criteria": {
-      "ancient_bricks_recipes_activatorer_0": "2024-12-28 20:18:20 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_redstone_block": "2024-12-28 19:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_coal_block": "2024-12-28 21:30:24 +0000"
+      "has_redstone_block": "2024-12-28 19:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+  "apotheosis:affix/epic": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-28 20:32:35 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2024-12-28 22:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-28 22:17:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-28 20:56:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-28 21:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-12-28 20:16:51 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2024-12-28 21:56:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2024-12-28 20:16:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
+      "sword": "2024-12-28 20:15:17 +0000"
     },
     "done": true
   },
@@ -8672,33 +8493,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 20:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
-  "apotheotic_additions:affix/artifact": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "sword": "2024-12-28 21:41:21 +0000"
+      "has_quartz": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-12-28 20:55:44 +0000"
+      "has_quartz": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
@@ -8708,99 +8523,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
+      "has_quartz": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+      "has_quartz": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
+  "netherdungeons:recipes/crafting/ominous_quartz": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+      "has_items": "2024-12-28 20:16:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+  "piglet_structures:ashed_bone_recipes_activatorer": {
     "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
+      "ashed_bone_recipes_activatorer_0": "2024-12-28 20:17:26 +0000"
     },
     "done": true
   },
-  "piglet_structures:gold_advancement": {
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
-      "gold_advancement_0": "2024-12-28 20:56:07 +0000"
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-28 20:18:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2024-12-28 20:18:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2024-12-28 19:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deepsight": {
-    "criteria": {
-      "all_effects": "2024-12-28 22:15:14 +0000"
     },
     "done": true
   },
@@ -8816,9 +8601,87 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
-      "in_better_fortress": "2024-12-28 20:28:24 +0000"
+      "has_cut_copper": "2024-12-28 20:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2024-12-28 20:18:14 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:ancient_bricks_recipes_activatorer": {
+    "criteria": {
+      "ancient_bricks_recipes_activatorer_0": "2024-12-28 20:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
     },
     "done": true
   },
@@ -8828,33 +8691,381 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-28 20:16:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-28 22:03:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-28 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 20:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 20:32:35 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-28 20:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-28 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-28 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-28 20:55:44 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:gold_advancement": {
+    "criteria": {
+      "gold_advancement_0": "2024-12-28 20:56:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 20:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-28 21:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-28 21:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-28 21:03:00 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:raw_flamite_recipes_activatorer": {
+    "criteria": {
+      "raw_flamite_recipes_activatorer_0": "2024-12-28 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-28 21:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-28 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "piglet_structures:glass_recipes_activatorer": {
+    "criteria": {
+      "glass_recipes_activatorer_0": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:38:43 +0000"
     },
     "done": true
   },
@@ -8876,75 +9087,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:18:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2024-12-28 22:05:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-28 19:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-28 20:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag_skull": {
-    "criteria": {
-      "skull": "2024-12-28 22:55:05 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_frozen_key": {
-    "criteria": {
-      "frozen_key": "2024-12-28 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper": "2024-12-28 20:18:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
     },
     "done": true
   },
@@ -8954,69 +9099,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-28 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-28 21:03:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:ashed_bone_recipes_activatorer": {
-    "criteria": {
-      "ashed_bone_recipes_activatorer_0": "2024-12-28 20:17:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-28 22:04:18 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-12-28 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/pirate_pouch": {
-    "criteria": {
-      "has_item": "2024-12-28 22:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-28 19:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-12-28 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
     },
     "done": true
   },
@@ -9032,63 +9117,9 @@
     },
     "done": true
   },
-  "morevillagers:recipes/oceanography_table": {
-    "criteria": {
-      "has_barrel": "2024-12-28 22:50:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2024-12-28 22:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-28 20:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-28 20:16:51 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/oxygen_tank": {
-    "criteria": {
-      "has_item": "2024-12-28 22:07:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-28 22:06:58 +0000"
     },
     "done": true
   },
@@ -9098,81 +9129,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_rune_of_the_storm": {
-    "criteria": {
-      "rune_of_the_storm": "2024-12-28 22:59:53 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/sea_stew": {
-    "criteria": {
-      "has_item": "2024-12-28 22:11:55 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pork_knuckle": {
-    "criteria": {
-      "has_cooked_porkchop": "2024-12-28 20:23:53 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/ship_graveyard_echo": {
-    "criteria": {
-      "has_item": "2024-12-28 22:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-28 19:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-28 22:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-28 20:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-12-28 21:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
     },
     "done": true
   },
@@ -9182,33 +9141,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 20:21:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "piglet_structures:raw_flamite_recipes_activatorer": {
-    "criteria": {
-      "raw_flamite_recipes_activatorer_0": "2024-12-28 21:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
     },
     "done": true
   },
@@ -9224,21 +9159,45 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
     "criteria": {
-      "sword": "2024-12-28 20:15:17 +0000"
+      "spiked_turtle_shell": "2024-12-28 21:41:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+  "apotheotic_additions:affix/artifact": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+      "sword": "2024-12-28 21:41:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+      "naga": "2024-12-28 21:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-28 22:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-28 22:03:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-28 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-28 22:05:08 +0000"
     },
     "done": true
   },
@@ -9248,45 +9207,87 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_brimstone": "2024-12-28 20:56:19 +0000"
+      "lightning_rod_with_villager_no_fire": "2024-12-28 22:06:58 +0000"
     },
     "done": true
   },
-  "netherdungeons:recipes/crafting/ominous_quartz": {
+  "aquamirae:recipes/oxygen_tank": {
     "criteria": {
-      "has_items": "2024-12-28 20:16:51 +0000"
+      "has_item": "2024-12-28 22:07:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "aquamirae:adventure/obtain_frozen_key": {
     "criteria": {
-      "has_copper_block": "2024-12-28 20:18:07 +0000"
+      "frozen_key": "2024-12-28 22:07:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "aquamirae:recipes/sea_stew": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-28 21:27:52 +0000"
+      "has_item": "2024-12-28 22:11:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "alexscaves:alexscaves/deepsight": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-28 20:43:02 +0000"
+      "all_effects": "2024-12-28 22:15:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+      "voluntary_exile": "2024-12-28 22:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-28 20:21:50 +0000"
+      "has_item": "2024-12-28 22:45:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-12-28 22:50:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-28 22:54:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-28 22:55:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-28 23:07:07 +0000"
     },
     "done": true
   },
