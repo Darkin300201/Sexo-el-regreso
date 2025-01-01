@@ -3004,3 +3004,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 23:06:13.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
 [01Jan2025 23:06:16.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tekkyo08 moved too quickly! 5.617391246084367,2.0,-8.314047328826291
 [01Jan2025 23:06:32.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3907ms or 78 ticks behind
+[01Jan2025 23:06:51.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
+[01Jan2025 23:07:20.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Jan2025 23:08:45.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[01Jan2025 23:09:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 was shot by Darka0201
+[01Jan2025 23:09:28.451] [Server thread/INFO] [tombstone/]: The player Tekkyo08 has successfully been saved
+[01Jan2025 23:09:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darka0201 has made the advancement [Funeral Theft]
