@@ -3841,6 +3841,7 @@
       "minecraft:pillager": "2024-12-25 19:15:41 +0000",
       "minecraft:blaze": "2024-12-28 20:29:28 +0000",
       "minecraft:skeleton": "2024-12-25 20:12:10 +0000",
+      "minecraft:ghast": "2025-01-02 01:12:47 +0000",
       "minecraft:vindicator": "2024-12-25 19:06:01 +0000",
       "minecraft:magma_cube": "2024-12-28 20:32:42 +0000",
       "minecraft:spider": "2024-12-25 19:24:24 +0000",
@@ -8465,7 +8466,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-28 21:09:50 +0000",
-      "minecraft:nether_wastes": "2024-12-28 19:50:45 +0000"
+      "minecraft:nether_wastes": "2024-12-28 19:50:45 +0000",
+      "minecraft:soul_sand_valley": "2025-01-02 01:08:13 +0000"
     },
     "done": false
   },
@@ -9807,6 +9809,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:affix/heirloom": {
+    "criteria": {
+      "sword": "2025-01-02 01:13:41 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
@@ -10194,6 +10202,12 @@
   "refinedstorage:recipes/misc/pattern_grid/orange_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2025-01-01 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-02 01:07:12 +0000"
     },
     "done": true
   },
@@ -11352,6 +11366,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/gray_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-02 01:04:48 +0000"
     },
     "done": true
   },

@@ -1999,9 +1999,11 @@
       "minecraft:pillager": "2024-12-25 19:15:47 +0000",
       "minecraft:blaze": "2024-12-28 20:28:44 +0000",
       "minecraft:skeleton": "2024-12-25 20:13:08 +0000",
+      "minecraft:hoglin": "2025-01-02 01:02:53 +0000",
       "minecraft:vindicator": "2024-12-25 19:06:30 +0000",
       "minecraft:magma_cube": "2024-12-28 20:32:37 +0000",
       "minecraft:spider": "2024-12-25 19:39:18 +0000",
+      "minecraft:piglin_brute": "2025-01-02 01:12:20 +0000",
       "minecraft:creeper": "2024-12-26 17:09:32 +0000",
       "minecraft:evoker": "2024-12-26 18:29:35 +0000",
       "quark:forgotten": "2024-12-28 23:07:01 +0000",
@@ -9513,7 +9515,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-02 01:02:46 +0000",
       "minecraft:nether_wastes": "2024-12-27 07:16:18 +0000",
+      "minecraft:soul_sand_valley": "2025-01-02 01:06:45 +0000",
       "minecraft:basalt_deltas": "2024-12-28 20:59:05 +0000"
     },
     "done": false
@@ -10287,9 +10291,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 01:08:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-01 23:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 01:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-02 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/smelting/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/heirloom": {
+    "criteria": {
+      "sword": "2025-01-02 01:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
     },
     "done": true
   },
@@ -10299,9 +10345,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_radio": {
     "criteria": {
       "listen_to_radio": "2025-01-02 00:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-02 01:05:21 +0000"
     },
     "done": true
   },
@@ -10329,6 +10399,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-02 01:12:52 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/smoking/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:02:55 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2025-01-02 00:34:55 +0000"
@@ -10341,15 +10423,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 01:08:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-01-02 00:33:34 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/campfire_cooking/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-02 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/cassette_deck": {
     "criteria": {
       "has_jukebox": "2025-01-02 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:06:55 +0000"
     },
     "done": true
   },
