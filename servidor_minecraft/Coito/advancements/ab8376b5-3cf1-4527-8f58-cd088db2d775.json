@@ -9887,6 +9887,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/grid": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
@@ -9947,6 +9953,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-02 00:32:09 +0000"
@@ -9977,6 +9989,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-02 00:32:09 +0000"
@@ -9998,6 +10016,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
     },
     "done": true
   },
@@ -10307,6 +10331,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-01-02 01:55:00 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
@@ -10427,6 +10457,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 01:51:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
@@ -10532,6 +10568,12 @@
   "refinedstorage:recipes/misc/crafting_grid/brown_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2025-01-01 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 01:51:13 +0000"
     },
     "done": true
   },
@@ -10865,9 +10907,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-01-02 01:55:00 +0000"
     },
     "done": true
   },
@@ -10958,6 +11012,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/purple_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
     },
     "done": true
   },
@@ -11213,6 +11273,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/crafting_grid/blue_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2025-01-01 23:42:22 +0000"
@@ -11312,6 +11378,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-01 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-01-02 01:55:00 +0000"
     },
     "done": true
   },
@@ -11651,6 +11723,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
@@ -11684,6 +11762,12 @@
   "refinedstorage:recipes/misc/pattern_grid/yellow_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2025-01-01 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:51:17 +0000"
     },
     "done": true
   },
