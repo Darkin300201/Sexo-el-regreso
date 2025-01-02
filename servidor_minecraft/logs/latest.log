@@ -7838,3 +7838,4 @@
 [02Jan2025 02:01:17.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [02Jan2025 02:01:28.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tekkyo08: Teleported Tekkyo08 to Darka0201]
 [02Jan2025 02:04:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tekkyo08 has made the advancement [Sweet Dreams]
+[02Jan2025 02:18:22.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Poppa Jessica'/4416033, l='ServerLevel[Coito]', x=304.20, y=63.00, z=-2512.18] died: Poppa Jessica was slain by Tekkyo08
