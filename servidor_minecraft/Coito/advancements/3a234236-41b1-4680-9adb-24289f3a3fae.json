@@ -10306,9 +10306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-02 01:43:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10390,6 +10402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-02 01:43:58 +0000"
@@ -10402,9 +10420,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_baby": {
     "criteria": {
       "has_base": "2025-01-02 01:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10441,6 +10471,12 @@
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-01-02 01:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10510,6 +10546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-01-02 01:12:52 +0000"
@@ -10519,6 +10561,12 @@
   "netherdungeons:recipes/smoking/cooked_hoglin_leg": {
     "criteria": {
       "has_beef": "2025-01-02 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10549,6 +10597,12 @@
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 01:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10594,6 +10648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:43:57 +0000"
@@ -10618,9 +10678,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
@@ -10663,6 +10735,12 @@
   "netherdungeons:recipes/crafting/ominous_quartz": {
     "criteria": {
       "has_items": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
     },
     "done": true
   },
