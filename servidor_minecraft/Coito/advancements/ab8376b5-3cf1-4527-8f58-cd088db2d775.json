@@ -10605,6 +10605,12 @@
     },
     "done": true
   },
+  "refinedstorage:autocrafting": {
+    "criteria": {
+      "crafter_in_inventory": "2025-01-01 23:59:41 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-01-01 23:36:02 +0000"
