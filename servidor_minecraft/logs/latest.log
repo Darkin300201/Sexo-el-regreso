@@ -16,3 +16,7 @@
 [02Jan2025 00:06:51.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Tessa'/1496367, l='ServerLevel[Coito]', x=311.08, y=65.00, z=-2489.57] died: Tessa was slain by Tekkyo08
 [02Jan2025 00:06:59.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
 [02Jan2025 00:07:39.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Jan2025 00:07:58.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Jan2025 00:08:19.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jan2025 00:08:43.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Jan2025 00:09:04.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
