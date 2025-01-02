@@ -10294,6 +10294,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-02 01:43:58 +0000"
@@ -10324,6 +10336,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-02 01:08:44 +0000"
@@ -10339,6 +10357,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-01 23:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
     },
     "done": true
   },
@@ -10393,6 +10417,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
     },
     "done": true
   },
@@ -10492,9 +10522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
     },
     "done": true
   },
@@ -10546,6 +10588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 02:21:15 +0000"
@@ -10555,6 +10603,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-01-02 01:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-02 02:36:26 +0000"
     },
     "done": true
   },
@@ -10624,6 +10678,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-01-02 02:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-01-02 00:33:34 +0000"
@@ -10645,6 +10705,12 @@
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 01:43:57 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-01-02 02:31:36 +0000"
     },
     "done": true
   },
@@ -10714,6 +10780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 02:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-02 01:06:55 +0000"
@@ -10735,6 +10807,12 @@
   "netherdungeons:recipes/crafting/ominous_quartz": {
     "criteria": {
       "has_items": "2025-01-02 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-02 02:36:26 +0000"
     },
     "done": true
   },
